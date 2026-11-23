@@ -4,7 +4,7 @@ import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import AiAdvisorPage from "@/app/ai-advisor/page";
 import OverviewPage from "@/app/page";
 import { EmptyState, ErrorState, LoadingState } from "@/components/common/StateFeedback";
-import { ApiError, mandiApi } from "@/lib/api";
+import { mandiApi } from "@/lib/api";
 
 // ResponsiveContainer relies on ResizeObserver / layout measurements in jsdom
 vi.mock("recharts", async () => {
@@ -41,7 +41,7 @@ describe("API client integration & error handling", () => {
         start_date: "2025-06-30",
         end_date: "2025-05-01",
       })
-    ).rejects.toMatchObject<Partial<ApiError>>({
+    ).rejects.toMatchObject({
       status: 422,
       detail: "start_date must be less than or equal to end_date.",
     });
