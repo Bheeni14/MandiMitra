@@ -199,11 +199,9 @@ export default function AboutMethodologyPage() {
           <CardContent className="space-y-2.5 text-xs sm:text-sm text-muted-foreground">
             <p>
               <strong className="text-foreground">Bheeni Agarwal:</strong> Data Engineering, Pandas validation, ETL
-              warehouse loading, GenAI validator/fallback, rolling-origin backtesting, and automated test suites.
-            </p>
-            <p>
-              <strong className="text-foreground">Anurag Tiwari:</strong> PostgreSQL star schema &amp; indexing, 7 SQL
-              analytical views (Q1–Q7), deterministic signal engine, bilingual prompting, and dashboard UX.
+              warehouse loading, PostgreSQL star schema &amp; indexing, 7 SQL analytical views (Q1–Q7), deterministic
+              signal engine, GenAI validator/fallback, bilingual prompting, rolling-origin backtesting, dashboard UX,
+              and automated test suites.
             </p>
             <p>
               <strong className="text-foreground">Tech Stack:</strong> Next.js (App Router, TypeScript, Tailwind CSS,

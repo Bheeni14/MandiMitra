@@ -1,7 +1,7 @@
 # MandiMitra — Crop Price and Market Analytics for India
 
 > **"Smarter Mandi Decisions. Better Agricultural Insights."**  
-> HCL Hackathon Capstone Project — **Bheeni Agarwal** & **Anurag Tiwari** (B.Tech CSE - Data Science, Ajay Kumar Garg Engineering College, Ghaziabad)
+> HCL Hackathon Capstone Project — **Bheeni Agarwal** (B.Tech CSE - Data Science, Ajay Kumar Garg Engineering College, Ghaziabad)
 
 ---
 
