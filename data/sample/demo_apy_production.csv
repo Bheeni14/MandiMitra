@@ -1,0 +1,1297 @@
+crop_year,season,state,district,crop_name,crop_type,area_ha,production_t,yield_t_ha
+2024-25,Kharif,Maharashtra,Nashik,Tomato,Horticulture,13265.88,277645.58,20.9293
+2024-25,Kharif,Maharashtra,Pune,Tomato,Horticulture,15155.72,323072.97,21.3169
+2024-25,Kharif,Maharashtra,Nashik,Onion,Horticulture,13982.79,223010.12,15.9489
+2024-25,Kharif,Maharashtra,Pune,Onion,Horticulture,11920.47,183220.01,15.3702
+2024-25,Kharif,Maharashtra,Nashik,Cabbage,Horticulture,8494.51,154501.55,18.1884
+2024-25,Kharif,Maharashtra,Pune,Cabbage,Horticulture,11025.38,210767.78,19.1166
+2024-25,Kharif,Maharashtra,Nashik,Cauliflower,Horticulture,14192.54,275824.92,19.4345
+2024-25,Kharif,Maharashtra,Pune,Cauliflower,Horticulture,13481.27,283295.41,21.014
+2024-25,Kharif,Maharashtra,Nashik,Brinjal,Horticulture,8907.08,191714.21,21.5238
+2024-25,Kharif,Maharashtra,Pune,Brinjal,Horticulture,12616.48,193058.64,15.3021
+2024-25,Kharif,Maharashtra,Nashik,Chillies,Spice,14214.34,237311.25,16.6952
+2024-25,Kharif,Maharashtra,Pune,Chillies,Spice,11776.31,185804.26,15.7778
+2024-25,Rabi,Maharashtra,Nashik,Potato,Horticulture,11308.43,203024.77,17.9534
+2024-25,Rabi,Maharashtra,Pune,Potato,Horticulture,14463.85,270776.29,18.7209
+2024-25,Rabi,Maharashtra,Nashik,Garlic,Spice,6575.41,34660.96,5.2713
+2024-25,Rabi,Maharashtra,Pune,Garlic,Spice,6867.49,31674.24,4.6122
+2024-25,Kharif,Maharashtra,Nashik,Turmeric,Spice,4211.27,26257.69,6.2351
+2024-25,Kharif,Maharashtra,Pune,Turmeric,Spice,7615.36,45030.39,5.9131
+2024-25,Rabi,Maharashtra,Nashik,Wheat,Cereal,63795.63,199189.1,3.1223
+2024-25,Rabi,Maharashtra,Pune,Wheat,Cereal,84526.56,271245.73,3.209
+2024-25,Kharif,Maharashtra,Nashik,Rice,Cereal,77976.77,258181.09,3.311
+2024-25,Kharif,Maharashtra,Pune,Rice,Cereal,70408.64,213732.47,3.0356
+2024-25,Kharif,Maharashtra,Nashik,Maize,Cereal,42669.51,147333.55,3.4529
+2024-25,Kharif,Maharashtra,Pune,Maize,Cereal,50103.52,197427.91,3.9404
+2024-25,Kharif,Maharashtra,Nashik,Soyabean,Oilseed,48258.96,70593.21,1.4628
+2024-25,Kharif,Maharashtra,Pune,Soyabean,Oilseed,49451.17,84230.18,1.7033
+2024-25,Kharif,Maharashtra,Nashik,Groundnut,Oilseed,37587.45,48848.65,1.2996
+2024-25,Kharif,Maharashtra,Pune,Groundnut,Oilseed,39509.94,63097.37,1.597
+2024-25,Rabi,Maharashtra,Nashik,Rapeseed & Mustard,Oilseed,41135.64,51189.19,1.2444
+2024-25,Rabi,Maharashtra,Pune,Rapeseed & Mustard,Oilseed,40598.97,49429.25,1.2175
+2024-25,Rabi,Maharashtra,Nashik,Gram,Pulse,22694.17,23944.62,1.0551
+2024-25,Rabi,Maharashtra,Pune,Gram,Pulse,34852.25,33925.18,0.9734
+2024-25,Kharif,Maharashtra,Nashik,Arhar/Tur,Pulse,37499.4,39854.36,1.0628
+2024-25,Kharif,Maharashtra,Pune,Arhar/Tur,Pulse,20344.24,19829.53,0.9747
+2024-25,Kharif,Maharashtra,Nashik,Moong(Green Gram),Pulse,41421.91,47096.71,1.137
+2024-25,Kharif,Maharashtra,Pune,Moong(Green Gram),Pulse,25533.05,28035.29,1.098
+2024-25,Kharif,Uttar Pradesh,Agra,Tomato,Horticulture,8998.43,158626.12,17.6282
+2024-25,Kharif,Uttar Pradesh,Lucknow,Tomato,Horticulture,10685.87,197762.33,18.5069
+2024-25,Kharif,Uttar Pradesh,Agra,Onion,Horticulture,7938.03,134272.57,16.9151
+2024-25,Kharif,Uttar Pradesh,Lucknow,Onion,Horticulture,8479.23,140455.9,16.5647
+2024-25,Kharif,Uttar Pradesh,Agra,Cabbage,Horticulture,14751.44,320023.64,21.6944
+2024-25,Kharif,Uttar Pradesh,Lucknow,Cabbage,Horticulture,7464.85,159529.82,21.3708
+2024-25,Kharif,Uttar Pradesh,Agra,Cauliflower,Horticulture,11257.59,253284.52,22.499
+2024-25,Kharif,Uttar Pradesh,Lucknow,Cauliflower,Horticulture,10564.21,236047.76,22.3441
+2024-25,Kharif,Uttar Pradesh,Agra,Brinjal,Horticulture,13536.78,276266.73,20.4086
+2024-25,Kharif,Uttar Pradesh,Lucknow,Brinjal,Horticulture,12908.24,281588.09,21.8146
+2024-25,Kharif,Uttar Pradesh,Agra,Chillies,Spice,11700.73,198666.69,16.979
+2024-25,Kharif,Uttar Pradesh,Lucknow,Chillies,Spice,10301.55,178073.62,17.2861
+2024-25,Rabi,Uttar Pradesh,Agra,Potato,Horticulture,7831.32,172135.55,21.9804
+2024-25,Rabi,Uttar Pradesh,Lucknow,Potato,Horticulture,11124.03,208705.71,18.7617
+2024-25,Rabi,Uttar Pradesh,Agra,Garlic,Spice,4245.58,22766.07,5.3623
+2024-25,Rabi,Uttar Pradesh,Lucknow,Garlic,Spice,5279.66,23745.8,4.4976
+2024-25,Kharif,Uttar Pradesh,Agra,Turmeric,Spice,6493.11,39790.43,6.1281
+2024-25,Kharif,Uttar Pradesh,Lucknow,Turmeric,Spice,6129.26,28712.52,4.6845
+2024-25,Rabi,Uttar Pradesh,Agra,Wheat,Cereal,57579.54,193570.9,3.3618
+2024-25,Rabi,Uttar Pradesh,Lucknow,Wheat,Cereal,47110.29,181369.91,3.8499
+2024-25,Kharif,Uttar Pradesh,Agra,Rice,Cereal,48130.96,196485.02,4.0823
+2024-25,Kharif,Uttar Pradesh,Lucknow,Rice,Cereal,57651.15,196498.18,3.4084
+2024-25,Kharif,Uttar Pradesh,Agra,Maize,Cereal,47694.32,137068.71,2.8739
+2024-25,Kharif,Uttar Pradesh,Lucknow,Maize,Cereal,47328.91,160875.7,3.3991
+2024-25,Kharif,Uttar Pradesh,Agra,Soyabean,Oilseed,35328.17,45379.03,1.2845
+2024-25,Kharif,Uttar Pradesh,Lucknow,Soyabean,Oilseed,32924.8,39944.37,1.2132
+2024-25,Kharif,Uttar Pradesh,Agra,Groundnut,Oilseed,46873.21,75039.32,1.6009
+2024-25,Kharif,Uttar Pradesh,Lucknow,Groundnut,Oilseed,48513.71,73755.39,1.5203
+2024-25,Rabi,Uttar Pradesh,Agra,Rapeseed & Mustard,Oilseed,46374.39,64590.25,1.3928
+2024-25,Rabi,Uttar Pradesh,Lucknow,Rapeseed & Mustard,Oilseed,41398.92,64660.97,1.5619
+2024-25,Rabi,Uttar Pradesh,Agra,Gram,Pulse,30279.57,33719.33,1.1136
+2024-25,Rabi,Uttar Pradesh,Lucknow,Gram,Pulse,18558.0,23041.61,1.2416
+2024-25,Kharif,Uttar Pradesh,Agra,Arhar/Tur,Pulse,23329.31,26618.74,1.141
+2024-25,Kharif,Uttar Pradesh,Lucknow,Arhar/Tur,Pulse,21438.69,23522.53,1.0972
+2024-25,Kharif,Uttar Pradesh,Agra,Moong(Green Gram),Pulse,26806.87,34205.57,1.276
+2024-25,Kharif,Uttar Pradesh,Lucknow,Moong(Green Gram),Pulse,39549.87,39937.46,1.0098
+2024-25,Kharif,Madhya Pradesh,Indore,Tomato,Horticulture,14190.22,269831.29,19.0153
+2024-25,Kharif,Madhya Pradesh,Ujjain,Tomato,Horticulture,13491.95,284411.66,21.0801
+2024-25,Kharif,Madhya Pradesh,Indore,Onion,Horticulture,16729.72,343708.75,20.5448
+2024-25,Kharif,Madhya Pradesh,Ujjain,Onion,Horticulture,13442.34,208853.64,15.537
+2024-25,Kharif,Madhya Pradesh,Indore,Cabbage,Horticulture,15178.83,319916.61,21.0765
+2024-25,Kharif,Madhya Pradesh,Ujjain,Cabbage,Horticulture,15705.18,280759.93,17.8769
+2024-25,Kharif,Madhya Pradesh,Indore,Cauliflower,Horticulture,10259.53,226722.28,22.0987
+2024-25,Kharif,Madhya Pradesh,Ujjain,Cauliflower,Horticulture,9757.46,167264.33,17.1422
+2024-25,Kharif,Madhya Pradesh,Indore,Brinjal,Horticulture,8779.91,193336.25,22.0203
+2024-25,Kharif,Madhya Pradesh,Ujjain,Brinjal,Horticulture,10904.61,195215.42,17.9021
+2024-25,Kharif,Madhya Pradesh,Indore,Chillies,Spice,10922.07,196648.59,18.0047
+2024-25,Kharif,Madhya Pradesh,Ujjain,Chillies,Spice,12727.45,212643.87,16.7075
+2024-25,Rabi,Madhya Pradesh,Indore,Potato,Horticulture,15454.67,343714.95,22.2402
+2024-25,Rabi,Madhya Pradesh,Ujjain,Potato,Horticulture,15358.45,244460.45,15.917
+2024-25,Rabi,Madhya Pradesh,Indore,Garlic,Spice,4760.76,27610.03,5.7995
+2024-25,Rabi,Madhya Pradesh,Ujjain,Garlic,Spice,5048.64,27023.35,5.3526
+2024-25,Kharif,Madhya Pradesh,Indore,Turmeric,Spice,4556.56,26336.46,5.7799
+2024-25,Kharif,Madhya Pradesh,Ujjain,Turmeric,Spice,4991.97,30357.67,6.0813
+2024-25,Rabi,Madhya Pradesh,Indore,Wheat,Cereal,51900.47,189166.83,3.6448
+2024-25,Rabi,Madhya Pradesh,Ujjain,Wheat,Cereal,81358.49,290547.44,3.5712
+2024-25,Kharif,Madhya Pradesh,Indore,Rice,Cereal,72327.99,229091.68,3.1674
+2024-25,Kharif,Madhya Pradesh,Ujjain,Rice,Cereal,80342.36,282925.62,3.5215
+2024-25,Kharif,Madhya Pradesh,Indore,Maize,Cereal,52740.48,214991.29,4.0764
+2024-25,Kharif,Madhya Pradesh,Ujjain,Maize,Cereal,60180.74,207563.37,3.449
+2024-25,Kharif,Madhya Pradesh,Indore,Soyabean,Oilseed,27395.38,35923.56,1.3113
+2024-25,Kharif,Madhya Pradesh,Ujjain,Soyabean,Oilseed,29174.48,38746.63,1.3281
+2024-25,Kharif,Madhya Pradesh,Indore,Groundnut,Oilseed,37940.97,49433.29,1.3029
+2024-25,Kharif,Madhya Pradesh,Ujjain,Groundnut,Oilseed,49280.54,60432.73,1.2263
+2024-25,Rabi,Madhya Pradesh,Indore,Rapeseed & Mustard,Oilseed,47406.5,75234.12,1.587
+2024-25,Rabi,Madhya Pradesh,Ujjain,Rapeseed & Mustard,Oilseed,40424.67,49200.87,1.2171
+2024-25,Rabi,Madhya Pradesh,Indore,Gram,Pulse,30013.93,39765.46,1.3249
+2024-25,Rabi,Madhya Pradesh,Ujjain,Gram,Pulse,19975.34,21259.75,1.0643
+2024-25,Kharif,Madhya Pradesh,Indore,Arhar/Tur,Pulse,26827.63,28429.24,1.0597
+2024-25,Kharif,Madhya Pradesh,Ujjain,Arhar/Tur,Pulse,28373.81,37419.38,1.3188
+2024-25,Kharif,Madhya Pradesh,Indore,Moong(Green Gram),Pulse,28412.46,36566.84,1.287
+2024-25,Kharif,Madhya Pradesh,Ujjain,Moong(Green Gram),Pulse,26716.94,31170.65,1.1667
+2024-25,Kharif,Rajasthan,Kota,Tomato,Horticulture,10744.4,219920.68,20.4684
+2024-25,Kharif,Rajasthan,Jaipur,Tomato,Horticulture,11242.24,227002.19,20.1919
+2024-25,Kharif,Rajasthan,Kota,Onion,Horticulture,7319.17,127189.61,17.3776
+2024-25,Kharif,Rajasthan,Jaipur,Onion,Horticulture,8626.6,155209.79,17.992
+2024-25,Kharif,Rajasthan,Kota,Cabbage,Horticulture,10840.13,213867.09,19.7292
+2024-25,Kharif,Rajasthan,Jaipur,Cabbage,Horticulture,6994.83,147023.63,21.0189
+2024-25,Kharif,Rajasthan,Kota,Cauliflower,Horticulture,11952.4,196908.62,16.4744
+2024-25,Kharif,Rajasthan,Jaipur,Cauliflower,Horticulture,7102.37,125942.07,17.7324
+2024-25,Kharif,Rajasthan,Kota,Brinjal,Horticulture,9056.7,175152.96,19.3396
+2024-25,Kharif,Rajasthan,Jaipur,Brinjal,Horticulture,13436.45,283421.76,21.0935
+2024-25,Kharif,Rajasthan,Kota,Chillies,Spice,7978.89,163315.91,20.4685
+2024-25,Kharif,Rajasthan,Jaipur,Chillies,Spice,7181.65,117003.44,16.292
+2024-25,Rabi,Rajasthan,Kota,Potato,Horticulture,13061.38,209422.25,16.0337
+2024-25,Rabi,Rajasthan,Jaipur,Potato,Horticulture,7570.69,156123.53,20.6221
+2024-25,Rabi,Rajasthan,Kota,Garlic,Spice,3744.13,23120.0,6.175
+2024-25,Rabi,Rajasthan,Jaipur,Garlic,Spice,6760.21,32182.66,4.7606
+2024-25,Kharif,Rajasthan,Kota,Turmeric,Spice,5595.57,31653.58,5.6569
+2024-25,Kharif,Rajasthan,Jaipur,Turmeric,Spice,6650.69,40290.55,6.0581
+2024-25,Rabi,Rajasthan,Kota,Wheat,Cereal,44504.7,129246.1,2.9041
+2024-25,Rabi,Rajasthan,Jaipur,Wheat,Cereal,40536.21,125151.49,3.0874
+2024-25,Kharif,Rajasthan,Kota,Rice,Cereal,38584.36,113835.44,2.9503
+2024-25,Kharif,Rajasthan,Jaipur,Rice,Cereal,71963.51,272432.26,3.7857
+2024-25,Kharif,Rajasthan,Kota,Maize,Cereal,35219.23,143381.01,4.0711
+2024-25,Kharif,Rajasthan,Jaipur,Maize,Cereal,61870.44,183439.67,2.9649
+2024-25,Kharif,Rajasthan,Kota,Soyabean,Oilseed,27461.59,38578.04,1.4048
+2024-25,Kharif,Rajasthan,Jaipur,Soyabean,Oilseed,23872.21,35400.1,1.4829
+2024-25,Kharif,Rajasthan,Kota,Groundnut,Oilseed,28047.96,40234.8,1.4345
+2024-25,Kharif,Rajasthan,Jaipur,Groundnut,Oilseed,30533.38,46212.27,1.5135
+2024-25,Rabi,Rajasthan,Kota,Rapeseed & Mustard,Oilseed,24757.78,40147.22,1.6216
+2024-25,Rabi,Rajasthan,Jaipur,Rapeseed & Mustard,Oilseed,38461.41,48838.3,1.2698
+2024-25,Rabi,Rajasthan,Kota,Gram,Pulse,26724.27,32411.19,1.2128
+2024-25,Rabi,Rajasthan,Jaipur,Gram,Pulse,29950.57,34008.87,1.1355
+2024-25,Kharif,Rajasthan,Kota,Arhar/Tur,Pulse,25650.05,23321.03,0.9092
+2024-25,Kharif,Rajasthan,Jaipur,Arhar/Tur,Pulse,23421.72,29651.9,1.266
+2024-25,Kharif,Rajasthan,Kota,Moong(Green Gram),Pulse,30779.63,29108.3,0.9457
+2024-25,Kharif,Rajasthan,Jaipur,Moong(Green Gram),Pulse,33703.96,34991.45,1.0382
+2024-25,Kharif,Gujarat,Mehsana,Tomato,Horticulture,9877.23,161309.98,16.3315
+2024-25,Kharif,Gujarat,Rajkot,Tomato,Horticulture,7278.96,146002.11,20.0581
+2024-25,Kharif,Gujarat,Mehsana,Onion,Horticulture,8261.15,157676.44,19.0865
+2024-25,Kharif,Gujarat,Rajkot,Onion,Horticulture,10207.89,206616.88,20.2409
+2024-25,Kharif,Gujarat,Mehsana,Cabbage,Horticulture,11055.91,222640.6,20.1377
+2024-25,Kharif,Gujarat,Rajkot,Cabbage,Horticulture,6995.68,152048.31,21.7346
+2024-25,Kharif,Gujarat,Mehsana,Cauliflower,Horticulture,11791.28,263604.68,22.3559
+2024-25,Kharif,Gujarat,Rajkot,Cauliflower,Horticulture,13036.75,207269.98,15.8989
+2024-25,Kharif,Gujarat,Mehsana,Brinjal,Horticulture,8029.31,153474.64,19.1143
+2024-25,Kharif,Gujarat,Rajkot,Brinjal,Horticulture,10005.77,159997.27,15.9905
+2024-25,Kharif,Gujarat,Mehsana,Chillies,Spice,10283.17,186870.91,18.1725
+2024-25,Kharif,Gujarat,Rajkot,Chillies,Spice,9909.66,179427.28,18.1063
+2024-25,Rabi,Gujarat,Mehsana,Potato,Horticulture,9741.67,205262.83,21.0706
+2024-25,Rabi,Gujarat,Rajkot,Potato,Horticulture,11474.68,215633.33,18.7921
+2024-25,Rabi,Gujarat,Mehsana,Garlic,Spice,3881.61,21929.54,5.6496
+2024-25,Rabi,Gujarat,Rajkot,Garlic,Spice,3179.64,16467.36,5.179
+2024-25,Kharif,Gujarat,Mehsana,Turmeric,Spice,4400.44,24636.3,5.5986
+2024-25,Kharif,Gujarat,Rajkot,Turmeric,Spice,4984.37,22903.18,4.595
+2024-25,Rabi,Gujarat,Mehsana,Wheat,Cereal,67277.84,253597.09,3.7694
+2024-25,Rabi,Gujarat,Rajkot,Wheat,Cereal,47332.8,192469.36,4.0663
+2024-25,Kharif,Gujarat,Mehsana,Rice,Cereal,49785.3,150391.43,3.0208
+2024-25,Kharif,Gujarat,Rajkot,Rice,Cereal,56391.44,222954.84,3.9537
+2024-25,Kharif,Gujarat,Mehsana,Maize,Cereal,69122.72,257468.31,3.7248
+2024-25,Kharif,Gujarat,Rajkot,Maize,Cereal,38308.65,158743.38,4.1438
+2024-25,Kharif,Gujarat,Mehsana,Soyabean,Oilseed,40267.42,49190.68,1.2216
+2024-25,Kharif,Gujarat,Rajkot,Soyabean,Oilseed,29799.87,41487.38,1.3922
+2024-25,Kharif,Gujarat,Mehsana,Groundnut,Oilseed,43521.47,65530.28,1.5057
+2024-25,Kharif,Gujarat,Rajkot,Groundnut,Oilseed,33123.52,47595.19,1.4369
+2024-25,Rabi,Gujarat,Mehsana,Rapeseed & Mustard,Oilseed,29150.06,42780.63,1.4676
+2024-25,Rabi,Gujarat,Rajkot,Rapeseed & Mustard,Oilseed,40546.21,58564.95,1.4444
+2024-25,Rabi,Gujarat,Mehsana,Gram,Pulse,20832.09,24146.48,1.1591
+2024-25,Rabi,Gujarat,Rajkot,Gram,Pulse,35441.88,32408.06,0.9144
+2024-25,Kharif,Gujarat,Mehsana,Arhar/Tur,Pulse,26303.9,30767.67,1.1697
+2024-25,Kharif,Gujarat,Rajkot,Arhar/Tur,Pulse,21519.65,25337.24,1.1774
+2024-25,Kharif,Gujarat,Mehsana,Moong(Green Gram),Pulse,30576.51,28356.66,0.9274
+2024-25,Kharif,Gujarat,Rajkot,Moong(Green Gram),Pulse,22626.54,21599.3,0.9546
+2024-25,Kharif,Karnataka,Kolar,Tomato,Horticulture,15323.49,296747.05,19.3655
+2024-25,Kharif,Karnataka,Bengaluru Urban,Tomato,Horticulture,7744.64,120221.6,15.5232
+2024-25,Kharif,Karnataka,Kolar,Onion,Horticulture,12403.4,191561.83,15.4443
+2024-25,Kharif,Karnataka,Bengaluru Urban,Onion,Horticulture,12633.25,216794.15,17.1606
+2024-25,Kharif,Karnataka,Kolar,Cabbage,Horticulture,11837.27,203372.58,17.1807
+2024-25,Kharif,Karnataka,Bengaluru Urban,Cabbage,Horticulture,14468.18,248898.99,17.2032
+2024-25,Kharif,Karnataka,Kolar,Cauliflower,Horticulture,12924.1,264437.43,20.4608
+2024-25,Kharif,Karnataka,Bengaluru Urban,Cauliflower,Horticulture,13112.96,211087.18,16.0976
+2024-25,Kharif,Karnataka,Kolar,Brinjal,Horticulture,14405.89,303824.54,21.0903
+2024-25,Kharif,Karnataka,Bengaluru Urban,Brinjal,Horticulture,13338.42,290087.96,21.7483
+2024-25,Kharif,Karnataka,Kolar,Chillies,Spice,7932.44,178514.01,22.5043
+2024-25,Kharif,Karnataka,Bengaluru Urban,Chillies,Spice,9584.64,168067.62,17.5351
+2024-25,Rabi,Karnataka,Kolar,Potato,Horticulture,14043.44,277026.51,19.7264
+2024-25,Rabi,Karnataka,Bengaluru Urban,Potato,Horticulture,13468.63,261707.6,19.4309
+2024-25,Rabi,Karnataka,Kolar,Garlic,Spice,4165.57,22204.99,5.3306
+2024-25,Rabi,Karnataka,Bengaluru Urban,Garlic,Spice,7117.73,42297.11,5.9425
+2024-25,Kharif,Karnataka,Kolar,Turmeric,Spice,4770.77,29265.81,6.1344
+2024-25,Kharif,Karnataka,Bengaluru Urban,Turmeric,Spice,5373.02,28582.85,5.3197
+2024-25,Rabi,Karnataka,Kolar,Wheat,Cereal,51458.45,190247.04,3.6971
+2024-25,Rabi,Karnataka,Bengaluru Urban,Wheat,Cereal,67023.29,247208.7,3.6884
+2024-25,Kharif,Karnataka,Kolar,Rice,Cereal,67736.64,270181.14,3.9887
+2024-25,Kharif,Karnataka,Bengaluru Urban,Rice,Cereal,79010.77,319243.02,4.0405
+2024-25,Kharif,Karnataka,Kolar,Maize,Cereal,87550.1,350182.89,3.9998
+2024-25,Kharif,Karnataka,Bengaluru Urban,Maize,Cereal,90937.99,361624.01,3.9766
+2024-25,Kharif,Karnataka,Kolar,Soyabean,Oilseed,32872.63,41758.1,1.2703
+2024-25,Kharif,Karnataka,Bengaluru Urban,Soyabean,Oilseed,52647.52,83677.97,1.5894
+2024-25,Kharif,Karnataka,Kolar,Groundnut,Oilseed,42947.09,58824.63,1.3697
+2024-25,Kharif,Karnataka,Bengaluru Urban,Groundnut,Oilseed,39897.93,53870.19,1.3502
+2024-25,Rabi,Karnataka,Kolar,Rapeseed & Mustard,Oilseed,54413.89,80831.83,1.4855
+2024-25,Rabi,Karnataka,Bengaluru Urban,Rapeseed & Mustard,Oilseed,27151.26,33094.67,1.2189
+2024-25,Rabi,Karnataka,Kolar,Gram,Pulse,42107.6,39450.61,0.9369
+2024-25,Rabi,Karnataka,Bengaluru Urban,Gram,Pulse,31760.95,41968.92,1.3214
+2024-25,Kharif,Karnataka,Kolar,Arhar/Tur,Pulse,25940.51,27686.31,1.0673
+2024-25,Kharif,Karnataka,Bengaluru Urban,Arhar/Tur,Pulse,42606.02,40352.16,0.9471
+2024-25,Kharif,Karnataka,Kolar,Moong(Green Gram),Pulse,39480.08,46937.87,1.1889
+2024-25,Kharif,Karnataka,Bengaluru Urban,Moong(Green Gram),Pulse,23273.76,26148.07,1.1235
+2024-25,Kharif,Punjab,Ludhiana,Tomato,Horticulture,7675.65,118975.65,15.5004
+2024-25,Kharif,Punjab,Patiala,Tomato,Horticulture,11150.34,225909.23,20.2603
+2024-25,Kharif,Punjab,Ludhiana,Onion,Horticulture,6971.33,117018.65,16.7857
+2024-25,Kharif,Punjab,Patiala,Onion,Horticulture,12449.1,254463.34,20.4403
+2024-25,Kharif,Punjab,Ludhiana,Cabbage,Horticulture,6938.24,146127.66,21.0612
+2024-25,Kharif,Punjab,Patiala,Cabbage,Horticulture,14718.53,251408.68,17.0811
+2024-25,Kharif,Punjab,Ludhiana,Cauliflower,Horticulture,11036.45,246980.3,22.3786
+2024-25,Kharif,Punjab,Patiala,Cauliflower,Horticulture,12955.34,247152.91,19.0773
+2024-25,Kharif,Punjab,Ludhiana,Brinjal,Horticulture,13204.84,227133.81,17.2008
+2024-25,Kharif,Punjab,Patiala,Brinjal,Horticulture,11461.28,246304.05,21.4901
+2024-25,Kharif,Punjab,Ludhiana,Chillies,Spice,6685.87,143399.88,21.4482
+2024-25,Kharif,Punjab,Patiala,Chillies,Spice,10460.49,227807.51,21.7779
+2024-25,Rabi,Punjab,Ludhiana,Potato,Horticulture,13024.88,272795.69,20.9442
+2024-25,Rabi,Punjab,Patiala,Potato,Horticulture,11595.94,218949.9,18.8816
+2024-25,Rabi,Punjab,Ludhiana,Garlic,Spice,4238.5,19871.78,4.6884
+2024-25,Rabi,Punjab,Patiala,Garlic,Spice,5038.86,26858.13,5.3302
+2024-25,Kharif,Punjab,Ludhiana,Turmeric,Spice,6141.45,36508.46,5.9446
+2024-25,Kharif,Punjab,Patiala,Turmeric,Spice,4804.07,29418.2,6.1236
+2024-25,Rabi,Punjab,Ludhiana,Wheat,Cereal,62769.4,249753.17,3.9789
+2024-25,Rabi,Punjab,Patiala,Wheat,Cereal,70370.98,275396.83,3.9135
+2024-25,Kharif,Punjab,Ludhiana,Rice,Cereal,61519.83,198383.0,3.2247
+2024-25,Kharif,Punjab,Patiala,Rice,Cereal,48011.27,194556.07,4.0523
+2024-25,Kharif,Punjab,Ludhiana,Maize,Cereal,52316.41,156023.23,2.9823
+2024-25,Kharif,Punjab,Patiala,Maize,Cereal,49810.52,171427.89,3.4416
+2024-25,Kharif,Punjab,Ludhiana,Soyabean,Oilseed,21998.13,28659.16,1.3028
+2024-25,Kharif,Punjab,Patiala,Soyabean,Oilseed,27196.52,31615.95,1.1625
+2024-25,Kharif,Punjab,Ludhiana,Groundnut,Oilseed,48233.6,65366.17,1.3552
+2024-25,Kharif,Punjab,Patiala,Groundnut,Oilseed,44657.79,56764.52,1.2711
+2024-25,Rabi,Punjab,Ludhiana,Rapeseed & Mustard,Oilseed,43622.5,55967.67,1.283
+2024-25,Rabi,Punjab,Patiala,Rapeseed & Mustard,Oilseed,37708.08,51569.57,1.3676
+2024-25,Rabi,Punjab,Ludhiana,Gram,Pulse,24109.67,26585.73,1.1027
+2024-25,Rabi,Punjab,Patiala,Gram,Pulse,37991.3,35939.77,0.946
+2024-25,Kharif,Punjab,Ludhiana,Arhar/Tur,Pulse,29982.4,38215.57,1.2746
+2024-25,Kharif,Punjab,Patiala,Arhar/Tur,Pulse,24041.92,24320.81,1.0116
+2024-25,Kharif,Punjab,Ludhiana,Moong(Green Gram),Pulse,33403.17,38644.13,1.1569
+2024-25,Kharif,Punjab,Patiala,Moong(Green Gram),Pulse,25909.85,28410.15,1.0965
+2024-25,Kharif,Haryana,Karnal,Tomato,Horticulture,12013.41,194825.07,16.2173
+2024-25,Kharif,Haryana,Hisar,Tomato,Horticulture,14877.68,255656.57,17.1839
+2024-25,Kharif,Haryana,Karnal,Onion,Horticulture,14007.57,231187.94,16.5045
+2024-25,Kharif,Haryana,Hisar,Onion,Horticulture,11379.67,233815.8,20.5468
+2024-25,Kharif,Haryana,Karnal,Cabbage,Horticulture,9827.2,205705.9,20.9323
+2024-25,Kharif,Haryana,Hisar,Cabbage,Horticulture,8628.19,130918.98,15.1734
+2024-25,Kharif,Haryana,Karnal,Cauliflower,Horticulture,11850.62,182136.92,15.3694
+2024-25,Kharif,Haryana,Hisar,Cauliflower,Horticulture,9805.48,203371.54,20.7406
+2024-25,Kharif,Haryana,Karnal,Brinjal,Horticulture,12918.16,278329.51,21.5456
+2024-25,Kharif,Haryana,Hisar,Brinjal,Horticulture,9530.61,187591.95,19.6831
+2024-25,Kharif,Haryana,Karnal,Chillies,Spice,10842.14,222067.63,20.4819
+2024-25,Kharif,Haryana,Hisar,Chillies,Spice,10868.52,215627.09,19.8396
+2024-25,Rabi,Haryana,Karnal,Potato,Horticulture,10410.15,180036.26,17.2943
+2024-25,Rabi,Haryana,Hisar,Potato,Horticulture,10574.48,176682.64,16.7084
+2024-25,Rabi,Haryana,Karnal,Garlic,Spice,6632.77,32674.35,4.9262
+2024-25,Rabi,Haryana,Hisar,Garlic,Spice,7293.88,37411.04,5.1291
+2024-25,Kharif,Haryana,Karnal,Turmeric,Spice,3526.56,15459.03,4.3836
+2024-25,Kharif,Haryana,Hisar,Turmeric,Spice,3944.32,19616.29,4.9733
+2024-25,Rabi,Haryana,Karnal,Wheat,Cereal,78978.37,320209.9,4.0544
+2024-25,Rabi,Haryana,Hisar,Wheat,Cereal,80072.25,307029.04,3.8344
+2024-25,Kharif,Haryana,Karnal,Rice,Cereal,56215.6,213861.01,3.8043
+2024-25,Kharif,Haryana,Hisar,Rice,Cereal,62385.61,194973.75,3.1253
+2024-25,Kharif,Haryana,Karnal,Maize,Cereal,78494.12,310962.31,3.9616
+2024-25,Kharif,Haryana,Hisar,Maize,Cereal,80537.58,265782.07,3.3001
+2024-25,Kharif,Haryana,Karnal,Soyabean,Oilseed,35512.7,54096.5,1.5233
+2024-25,Kharif,Haryana,Hisar,Soyabean,Oilseed,40043.51,47647.77,1.1899
+2024-25,Kharif,Haryana,Karnal,Groundnut,Oilseed,41652.27,68909.52,1.6544
+2024-25,Kharif,Haryana,Hisar,Groundnut,Oilseed,25696.73,32213.42,1.2536
+2024-25,Rabi,Haryana,Karnal,Rapeseed & Mustard,Oilseed,24401.26,34164.2,1.4001
+2024-25,Rabi,Haryana,Hisar,Rapeseed & Mustard,Oilseed,34924.76,52320.78,1.4981
+2024-25,Rabi,Haryana,Karnal,Gram,Pulse,29217.44,34128.89,1.1681
+2024-25,Rabi,Haryana,Hisar,Gram,Pulse,27675.1,30633.57,1.1069
+2024-25,Kharif,Haryana,Karnal,Arhar/Tur,Pulse,24859.95,26632.46,1.0713
+2024-25,Kharif,Haryana,Hisar,Arhar/Tur,Pulse,20532.06,19004.47,0.9256
+2024-25,Kharif,Haryana,Karnal,Moong(Green Gram),Pulse,31932.19,35853.46,1.1228
+2024-25,Kharif,Haryana,Hisar,Moong(Green Gram),Pulse,35116.0,35101.95,0.9996
+2024-25,Kharif,West Bengal,Kolkata,Tomato,Horticulture,2604.53,58007.57,22.2718
+2024-25,Kharif,West Bengal,Darjeeling,Tomato,Horticulture,4187.84,90088.81,21.512
+2024-25,Kharif,West Bengal,Kolkata,Onion,Horticulture,2523.77,56491.82,22.3839
+2024-25,Kharif,West Bengal,Darjeeling,Onion,Horticulture,3411.44,66466.11,19.4833
+2024-25,Kharif,West Bengal,Kolkata,Cabbage,Horticulture,3517.26,71031.77,20.1952
+2024-25,Kharif,West Bengal,Darjeeling,Cabbage,Horticulture,2856.9,59920.33,20.9739
+2024-25,Kharif,West Bengal,Kolkata,Cauliflower,Horticulture,2455.42,51127.25,20.8222
+2024-25,Kharif,West Bengal,Darjeeling,Cauliflower,Horticulture,4483.76,74241.2,16.5578
+2024-25,Kharif,West Bengal,Kolkata,Brinjal,Horticulture,3664.49,79199.16,21.6126
+2024-25,Kharif,West Bengal,Darjeeling,Brinjal,Horticulture,2361.52,38319.44,16.2266
+2024-25,Kharif,West Bengal,Kolkata,Chillies,Spice,2625.08,46157.04,17.5831
+2024-25,Kharif,West Bengal,Darjeeling,Chillies,Spice,2716.62,52636.41,19.3757
+2024-25,Rabi,West Bengal,Kolkata,Potato,Horticulture,3379.01,61773.37,18.2815
+2024-25,Rabi,West Bengal,Darjeeling,Potato,Horticulture,2849.74,55219.13,19.3769
+2024-25,Rabi,West Bengal,Kolkata,Garlic,Spice,1616.25,7998.34,4.9487
+2024-25,Rabi,West Bengal,Darjeeling,Garlic,Spice,1531.97,7225.84,4.7167
+2024-25,Kharif,West Bengal,Kolkata,Turmeric,Spice,1826.47,9784.4,5.357
+2024-25,Kharif,West Bengal,Darjeeling,Turmeric,Spice,1913.99,8847.8,4.6227
+2024-25,Rabi,West Bengal,Kolkata,Wheat,Cereal,16180.59,45753.85,2.8277
+2024-25,Rabi,West Bengal,Darjeeling,Wheat,Cereal,22550.45,92253.89,4.091
+2024-25,Kharif,West Bengal,Kolkata,Rice,Cereal,13750.72,39149.67,2.8471
+2024-25,Kharif,West Bengal,Darjeeling,Rice,Cereal,26060.39,105656.64,4.0543
+2024-25,Kharif,West Bengal,Kolkata,Maize,Cereal,25271.42,73084.95,2.892
+2024-25,Kharif,West Bengal,Darjeeling,Maize,Cereal,25201.7,93722.6,3.7189
+2024-25,Kharif,West Bengal,Kolkata,Soyabean,Oilseed,10805.27,16053.39,1.4857
+2024-25,Kharif,West Bengal,Darjeeling,Soyabean,Oilseed,11326.9,18520.61,1.6351
+2024-25,Kharif,West Bengal,Kolkata,Groundnut,Oilseed,8409.6,11385.76,1.3539
+2024-25,Kharif,West Bengal,Darjeeling,Groundnut,Oilseed,8639.96,14477.12,1.6756
+2024-25,Rabi,West Bengal,Kolkata,Rapeseed & Mustard,Oilseed,15174.2,18617.23,1.2269
+2024-25,Rabi,West Bengal,Darjeeling,Rapeseed & Mustard,Oilseed,15498.47,25874.7,1.6695
+2024-25,Rabi,West Bengal,Kolkata,Gram,Pulse,10621.61,11740.07,1.1053
+2024-25,Rabi,West Bengal,Darjeeling,Gram,Pulse,10496.33,10924.58,1.0408
+2024-25,Kharif,West Bengal,Kolkata,Arhar/Tur,Pulse,8478.35,10044.3,1.1847
+2024-25,Kharif,West Bengal,Darjeeling,Arhar/Tur,Pulse,11378.3,12863.17,1.1305
+2024-25,Kharif,West Bengal,Kolkata,Moong(Green Gram),Pulse,8443.88,8744.48,1.0356
+2024-25,Kharif,West Bengal,Darjeeling,Moong(Green Gram),Pulse,6083.56,7008.87,1.1521
+2024-25,Kharif,Bihar,Patna,Tomato,Horticulture,7416.23,134627.56,18.1531
+2024-25,Kharif,Bihar,Muzaffarpur,Tomato,Horticulture,7829.56,156796.33,20.0262
+2024-25,Kharif,Bihar,Patna,Onion,Horticulture,5955.13,114501.67,19.2274
+2024-25,Kharif,Bihar,Muzaffarpur,Onion,Horticulture,9446.34,155732.36,16.486
+2024-25,Kharif,Bihar,Patna,Cabbage,Horticulture,10218.85,191099.65,18.7007
+2024-25,Kharif,Bihar,Muzaffarpur,Cabbage,Horticulture,10125.68,156263.54,15.4324
+2024-25,Kharif,Bihar,Patna,Cauliflower,Horticulture,8793.79,140786.82,16.0098
+2024-25,Kharif,Bihar,Muzaffarpur,Cauliflower,Horticulture,8503.99,139796.24,16.4389
+2024-25,Kharif,Bihar,Patna,Brinjal,Horticulture,6663.62,118179.97,17.7351
+2024-25,Kharif,Bihar,Muzaffarpur,Brinjal,Horticulture,5953.46,97137.25,16.3161
+2024-25,Kharif,Bihar,Patna,Chillies,Spice,6699.86,127132.52,18.9754
+2024-25,Kharif,Bihar,Muzaffarpur,Chillies,Spice,5488.34,122330.16,22.2891
+2024-25,Rabi,Bihar,Patna,Potato,Horticulture,9287.16,205256.45,22.1011
+2024-25,Rabi,Bihar,Muzaffarpur,Potato,Horticulture,4816.79,85944.06,17.8426
+2024-25,Rabi,Bihar,Patna,Garlic,Spice,4443.28,23626.25,5.3173
+2024-25,Rabi,Bihar,Muzaffarpur,Garlic,Spice,3779.71,23914.23,6.327
+2024-25,Kharif,Bihar,Patna,Turmeric,Spice,4264.37,23287.72,5.461
+2024-25,Kharif,Bihar,Muzaffarpur,Turmeric,Spice,3125.49,16611.35,5.3148
+2024-25,Rabi,Bihar,Patna,Wheat,Cereal,35534.57,108718.02,3.0595
+2024-25,Rabi,Bihar,Muzaffarpur,Wheat,Cereal,33485.75,93508.96,2.7925
+2024-25,Kharif,Bihar,Patna,Rice,Cereal,36362.69,135138.3,3.7164
+2024-25,Kharif,Bihar,Muzaffarpur,Rice,Cereal,39481.29,128093.1,3.2444
+2024-25,Kharif,Bihar,Patna,Maize,Cereal,41038.05,115760.13,2.8208
+2024-25,Kharif,Bihar,Muzaffarpur,Maize,Cereal,30295.95,103439.46,3.4143
+2024-25,Kharif,Bihar,Patna,Soyabean,Oilseed,16850.3,19660.93,1.1668
+2024-25,Kharif,Bihar,Muzaffarpur,Soyabean,Oilseed,18102.06,23585.17,1.3029
+2024-25,Kharif,Bihar,Patna,Groundnut,Oilseed,33125.02,39673.84,1.1977
+2024-25,Kharif,Bihar,Muzaffarpur,Groundnut,Oilseed,27120.35,40073.03,1.4776
+2024-25,Rabi,Bihar,Patna,Rapeseed & Mustard,Oilseed,18523.92,28771.35,1.5532
+2024-25,Rabi,Bihar,Muzaffarpur,Rapeseed & Mustard,Oilseed,33308.2,49289.47,1.4798
+2024-25,Rabi,Bihar,Patna,Gram,Pulse,15931.79,15598.82,0.9791
+2024-25,Rabi,Bihar,Muzaffarpur,Gram,Pulse,22501.93,27513.11,1.2227
+2024-25,Kharif,Bihar,Patna,Arhar/Tur,Pulse,20939.26,21600.94,1.0316
+2024-25,Kharif,Bihar,Muzaffarpur,Arhar/Tur,Pulse,17544.42,16637.37,0.9483
+2024-25,Kharif,Bihar,Patna,Moong(Green Gram),Pulse,25523.24,23823.39,0.9334
+2024-25,Kharif,Bihar,Muzaffarpur,Moong(Green Gram),Pulse,25354.35,27930.35,1.1016
+2024-25,Kharif,Andhra Pradesh,Guntur,Tomato,Horticulture,13721.22,211354.81,15.4035
+2024-25,Kharif,Andhra Pradesh,Kurnool,Tomato,Horticulture,10673.75,203233.54,19.0405
+2024-25,Kharif,Andhra Pradesh,Guntur,Onion,Horticulture,7974.91,152863.07,19.168
+2024-25,Kharif,Andhra Pradesh,Kurnool,Onion,Horticulture,8425.12,189866.82,22.5358
+2024-25,Kharif,Andhra Pradesh,Guntur,Cabbage,Horticulture,12088.98,214737.76,17.7631
+2024-25,Kharif,Andhra Pradesh,Kurnool,Cabbage,Horticulture,10755.02,181308.13,16.858
+2024-25,Kharif,Andhra Pradesh,Guntur,Cauliflower,Horticulture,6284.92,141802.88,22.5624
+2024-25,Kharif,Andhra Pradesh,Kurnool,Cauliflower,Horticulture,12541.91,264358.38,21.078
+2024-25,Kharif,Andhra Pradesh,Guntur,Brinjal,Horticulture,10321.36,225612.54,21.8588
+2024-25,Kharif,Andhra Pradesh,Kurnool,Brinjal,Horticulture,10925.86,183803.56,16.8228
+2024-25,Kharif,Andhra Pradesh,Guntur,Chillies,Spice,8299.63,176403.66,21.2544
+2024-25,Kharif,Andhra Pradesh,Kurnool,Chillies,Spice,10221.24,202591.11,19.8206
+2024-25,Rabi,Andhra Pradesh,Guntur,Potato,Horticulture,10319.55,172524.3,16.7182
+2024-25,Rabi,Andhra Pradesh,Kurnool,Potato,Horticulture,8806.41,170645.33,19.3774
+2024-25,Rabi,Andhra Pradesh,Guntur,Garlic,Spice,3846.95,23556.03,6.1233
+2024-25,Rabi,Andhra Pradesh,Kurnool,Garlic,Spice,3726.52,22104.97,5.9318
+2024-25,Kharif,Andhra Pradesh,Guntur,Turmeric,Spice,6728.84,37710.44,5.6043
+2024-25,Kharif,Andhra Pradesh,Kurnool,Turmeric,Spice,6354.73,33586.65,5.2853
+2024-25,Rabi,Andhra Pradesh,Guntur,Wheat,Cereal,35297.31,109153.4,3.0924
+2024-25,Rabi,Andhra Pradesh,Kurnool,Wheat,Cereal,42670.77,121103.91,2.8381
+2024-25,Kharif,Andhra Pradesh,Guntur,Rice,Cereal,56093.78,169908.06,3.029
+2024-25,Kharif,Andhra Pradesh,Kurnool,Rice,Cereal,48309.6,162470.02,3.3631
+2024-25,Kharif,Andhra Pradesh,Guntur,Maize,Cereal,51449.97,161131.02,3.1318
+2024-25,Kharif,Andhra Pradesh,Kurnool,Maize,Cereal,69864.58,244253.56,3.4961
+2024-25,Kharif,Andhra Pradesh,Guntur,Soyabean,Oilseed,27217.26,33733.07,1.2394
+2024-25,Kharif,Andhra Pradesh,Kurnool,Soyabean,Oilseed,39186.87,56111.68,1.4319
+2024-25,Kharif,Andhra Pradesh,Guntur,Groundnut,Oilseed,42503.33,68528.12,1.6123
+2024-25,Kharif,Andhra Pradesh,Kurnool,Groundnut,Oilseed,43249.95,72223.09,1.6699
+2024-25,Rabi,Andhra Pradesh,Guntur,Rapeseed & Mustard,Oilseed,38864.1,58976.27,1.5175
+2024-25,Rabi,Andhra Pradesh,Kurnool,Rapeseed & Mustard,Oilseed,33483.57,57126.32,1.7061
+2024-25,Rabi,Andhra Pradesh,Guntur,Gram,Pulse,21692.21,21716.07,1.0011
+2024-25,Rabi,Andhra Pradesh,Kurnool,Gram,Pulse,30225.58,29853.81,0.9877
+2024-25,Kharif,Andhra Pradesh,Guntur,Arhar/Tur,Pulse,19912.32,19966.08,1.0027
+2024-25,Kharif,Andhra Pradesh,Kurnool,Arhar/Tur,Pulse,16170.86,16581.6,1.0254
+2024-25,Kharif,Andhra Pradesh,Guntur,Moong(Green Gram),Pulse,25243.36,28901.12,1.1449
+2024-25,Kharif,Andhra Pradesh,Kurnool,Moong(Green Gram),Pulse,32106.97,30459.88,0.9487
+2024-25,Kharif,Tamil Nadu,Chennai,Tomato,Horticulture,4090.79,81289.32,19.8713
+2024-25,Kharif,Tamil Nadu,Coimbatore,Tomato,Horticulture,2770.19,57667.32,20.8171
+2024-25,Kharif,Tamil Nadu,Chennai,Onion,Horticulture,3954.56,70247.22,17.7636
+2024-25,Kharif,Tamil Nadu,Coimbatore,Onion,Horticulture,5303.77,93266.8,17.585
+2024-25,Kharif,Tamil Nadu,Chennai,Cabbage,Horticulture,4692.63,72852.14,15.5248
+2024-25,Kharif,Tamil Nadu,Coimbatore,Cabbage,Horticulture,5376.08,93350.79,17.3641
+2024-25,Kharif,Tamil Nadu,Chennai,Cauliflower,Horticulture,3614.47,76596.04,21.1915
+2024-25,Kharif,Tamil Nadu,Coimbatore,Cauliflower,Horticulture,4737.72,99467.96,20.9949
+2024-25,Kharif,Tamil Nadu,Chennai,Brinjal,Horticulture,4160.46,71029.04,17.0724
+2024-25,Kharif,Tamil Nadu,Coimbatore,Brinjal,Horticulture,4596.17,86250.81,18.7658
+2024-25,Kharif,Tamil Nadu,Chennai,Chillies,Spice,4198.93,84226.76,20.0591
+2024-25,Kharif,Tamil Nadu,Coimbatore,Chillies,Spice,5059.6,79413.46,15.6956
+2024-25,Rabi,Tamil Nadu,Chennai,Potato,Horticulture,3399.08,75711.79,22.2742
+2024-25,Rabi,Tamil Nadu,Coimbatore,Potato,Horticulture,4638.11,97104.4,20.9362
+2024-25,Rabi,Tamil Nadu,Chennai,Garlic,Spice,2611.98,12035.22,4.6077
+2024-25,Rabi,Tamil Nadu,Coimbatore,Garlic,Spice,1689.55,9816.12,5.8099
+2024-25,Kharif,Tamil Nadu,Chennai,Turmeric,Spice,2559.41,14223.67,5.5574
+2024-25,Kharif,Tamil Nadu,Coimbatore,Turmeric,Spice,1868.72,11852.73,6.3427
+2024-25,Rabi,Tamil Nadu,Chennai,Wheat,Cereal,21095.29,59788.27,2.8342
+2024-25,Rabi,Tamil Nadu,Coimbatore,Wheat,Cereal,27667.04,112632.52,4.071
+2024-25,Kharif,Tamil Nadu,Chennai,Rice,Cereal,27629.38,85982.63,3.112
+2024-25,Kharif,Tamil Nadu,Coimbatore,Rice,Cereal,27823.64,89494.74,3.2165
+2024-25,Kharif,Tamil Nadu,Chennai,Maize,Cereal,23824.17,97426.56,4.0894
+2024-25,Kharif,Tamil Nadu,Coimbatore,Maize,Cereal,21566.36,74703.71,3.4639
+2024-25,Kharif,Tamil Nadu,Chennai,Soyabean,Oilseed,10000.26,13442.35,1.3442
+2024-25,Kharif,Tamil Nadu,Coimbatore,Soyabean,Oilseed,16821.09,28479.79,1.6931
+2024-25,Kharif,Tamil Nadu,Chennai,Groundnut,Oilseed,17542.97,23230.4,1.3242
+2024-25,Kharif,Tamil Nadu,Coimbatore,Groundnut,Oilseed,17023.31,26047.37,1.5301
+2024-25,Rabi,Tamil Nadu,Chennai,Rapeseed & Mustard,Oilseed,9124.12,12273.77,1.3452
+2024-25,Rabi,Tamil Nadu,Coimbatore,Rapeseed & Mustard,Oilseed,16167.17,26423.62,1.6344
+2024-25,Rabi,Tamil Nadu,Chennai,Gram,Pulse,12956.51,15989.63,1.2341
+2024-25,Rabi,Tamil Nadu,Coimbatore,Gram,Pulse,12328.73,13445.71,1.0906
+2024-25,Kharif,Tamil Nadu,Chennai,Arhar/Tur,Pulse,7330.23,9759.47,1.3314
+2024-25,Kharif,Tamil Nadu,Coimbatore,Arhar/Tur,Pulse,12829.62,13763.62,1.0728
+2024-25,Kharif,Tamil Nadu,Chennai,Moong(Green Gram),Pulse,10143.41,10812.88,1.066
+2024-25,Kharif,Tamil Nadu,Coimbatore,Moong(Green Gram),Pulse,12899.99,16006.31,1.2408
+2025-26,Kharif,Maharashtra,Nashik,Tomato,Horticulture,12589.55,253892.2,20.1669
+2025-26,Kharif,Maharashtra,Pune,Tomato,Horticulture,15520.16,326295.84,21.024
+2025-26,Kharif,Maharashtra,Nashik,Onion,Horticulture,12449.63,270143.28,21.6989
+2025-26,Kharif,Maharashtra,Pune,Onion,Horticulture,9652.52,173382.43,17.9624
+2025-26,Kharif,Maharashtra,Nashik,Cabbage,Horticulture,9461.4,172948.72,18.2794
+2025-26,Kharif,Maharashtra,Pune,Cabbage,Horticulture,14950.61,306367.9,20.492
+2025-26,Kharif,Maharashtra,Nashik,Cauliflower,Horticulture,8651.25,171240.25,19.7937
+2025-26,Kharif,Maharashtra,Pune,Cauliflower,Horticulture,8696.45,172874.12,19.8787
+2025-26,Kharif,Maharashtra,Nashik,Brinjal,Horticulture,9446.02,173254.18,18.3415
+2025-26,Kharif,Maharashtra,Pune,Brinjal,Horticulture,15645.21,329431.8,21.0564
+2025-26,Kharif,Maharashtra,Nashik,Chillies,Spice,14812.81,274297.69,18.5176
+2025-26,Kharif,Maharashtra,Pune,Chillies,Spice,8874.05,194189.95,21.8829
+2025-26,Rabi,Maharashtra,Nashik,Potato,Horticulture,9061.5,139586.06,15.4043
+2025-26,Rabi,Maharashtra,Pune,Potato,Horticulture,15023.11,320645.75,21.3435
+2025-26,Rabi,Maharashtra,Nashik,Garlic,Spice,7206.38,31231.73,4.3339
+2025-26,Rabi,Maharashtra,Pune,Garlic,Spice,5925.29,30832.25,5.2035
+2025-26,Kharif,Maharashtra,Nashik,Turmeric,Spice,4267.97,21156.33,4.957
+2025-26,Kharif,Maharashtra,Pune,Turmeric,Spice,6551.94,36051.39,5.5024
+2025-26,Rabi,Maharashtra,Nashik,Wheat,Cereal,45018.01,132064.83,2.9336
+2025-26,Rabi,Maharashtra,Pune,Wheat,Cereal,47895.96,170911.94,3.5684
+2025-26,Kharif,Maharashtra,Nashik,Rice,Cereal,76796.06,303029.57,3.9459
+2025-26,Kharif,Maharashtra,Pune,Rice,Cereal,41542.88,154576.9,3.7209
+2025-26,Kharif,Maharashtra,Nashik,Maize,Cereal,82098.43,313402.55,3.8174
+2025-26,Kharif,Maharashtra,Pune,Maize,Cereal,81855.35,263836.16,3.2232
+2025-26,Kharif,Maharashtra,Nashik,Soyabean,Oilseed,39066.58,63444.13,1.624
+2025-26,Kharif,Maharashtra,Pune,Soyabean,Oilseed,51548.34,85204.25,1.6529
+2025-26,Kharif,Maharashtra,Nashik,Groundnut,Oilseed,48521.62,73752.86,1.52
+2025-26,Kharif,Maharashtra,Pune,Groundnut,Oilseed,52966.98,63274.35,1.1946
+2025-26,Rabi,Maharashtra,Nashik,Rapeseed & Mustard,Oilseed,24471.17,31604.52,1.2915
+2025-26,Rabi,Maharashtra,Pune,Rapeseed & Mustard,Oilseed,44891.0,63839.49,1.4221
+2025-26,Rabi,Maharashtra,Nashik,Gram,Pulse,35504.45,37567.26,1.0581
+2025-26,Rabi,Maharashtra,Pune,Gram,Pulse,38182.85,40744.92,1.0671
+2025-26,Kharif,Maharashtra,Nashik,Arhar/Tur,Pulse,31324.3,35963.43,1.1481
+2025-26,Kharif,Maharashtra,Pune,Arhar/Tur,Pulse,33159.07,40662.97,1.2263
+2025-26,Kharif,Maharashtra,Nashik,Moong(Green Gram),Pulse,22597.76,29395.17,1.3008
+2025-26,Kharif,Maharashtra,Pune,Moong(Green Gram),Pulse,35072.0,46081.1,1.3139
+2025-26,Kharif,Uttar Pradesh,Agra,Tomato,Horticulture,9064.79,201225.65,22.1986
+2025-26,Kharif,Uttar Pradesh,Lucknow,Tomato,Horticulture,14447.16,259476.77,17.9604
+2025-26,Kharif,Uttar Pradesh,Agra,Onion,Horticulture,14842.11,298347.19,20.1014
+2025-26,Kharif,Uttar Pradesh,Lucknow,Onion,Horticulture,10311.85,218827.77,21.221
+2025-26,Kharif,Uttar Pradesh,Agra,Cabbage,Horticulture,13662.82,295689.38,21.6419
+2025-26,Kharif,Uttar Pradesh,Lucknow,Cabbage,Horticulture,12877.63,277850.32,21.5762
+2025-26,Kharif,Uttar Pradesh,Agra,Cauliflower,Horticulture,8971.74,156165.7,17.4064
+2025-26,Kharif,Uttar Pradesh,Lucknow,Cauliflower,Horticulture,12336.36,197857.94,16.0386
+2025-26,Kharif,Uttar Pradesh,Agra,Brinjal,Horticulture,13493.88,229748.15,17.0261
+2025-26,Kharif,Uttar Pradesh,Lucknow,Brinjal,Horticulture,12396.0,273702.44,22.0799
+2025-26,Kharif,Uttar Pradesh,Agra,Chillies,Spice,14537.73,229424.28,15.7813
+2025-26,Kharif,Uttar Pradesh,Lucknow,Chillies,Spice,11712.85,208953.73,17.8397
+2025-26,Rabi,Uttar Pradesh,Agra,Potato,Horticulture,11122.47,203119.66,18.2621
+2025-26,Rabi,Uttar Pradesh,Lucknow,Potato,Horticulture,10315.78,158882.61,15.4019
+2025-26,Rabi,Uttar Pradesh,Agra,Garlic,Spice,6002.8,36356.56,6.0566
+2025-26,Rabi,Uttar Pradesh,Lucknow,Garlic,Spice,5500.87,26542.25,4.8251
+2025-26,Kharif,Uttar Pradesh,Agra,Turmeric,Spice,4700.01,28952.53,6.1601
+2025-26,Kharif,Uttar Pradesh,Lucknow,Turmeric,Spice,4204.22,26482.8,6.2991
+2025-26,Rabi,Uttar Pradesh,Agra,Wheat,Cereal,57824.47,181962.04,3.1468
+2025-26,Rabi,Uttar Pradesh,Lucknow,Wheat,Cereal,80678.84,305667.92,3.7887
+2025-26,Kharif,Uttar Pradesh,Agra,Rice,Cereal,68331.25,275545.77,4.0325
+2025-26,Kharif,Uttar Pradesh,Lucknow,Rice,Cereal,41347.53,122694.66,2.9674
+2025-26,Kharif,Uttar Pradesh,Agra,Maize,Cereal,51032.91,157191.57,3.0802
+2025-26,Kharif,Uttar Pradesh,Lucknow,Maize,Cereal,48454.73,136937.91,2.8261
+2025-26,Kharif,Uttar Pradesh,Agra,Soyabean,Oilseed,32272.82,38569.25,1.1951
+2025-26,Kharif,Uttar Pradesh,Lucknow,Soyabean,Oilseed,28205.64,36151.17,1.2817
+2025-26,Kharif,Uttar Pradesh,Agra,Groundnut,Oilseed,25126.6,33699.8,1.3412
+2025-26,Kharif,Uttar Pradesh,Lucknow,Groundnut,Oilseed,29939.55,36083.15,1.2052
+2025-26,Rabi,Uttar Pradesh,Agra,Rapeseed & Mustard,Oilseed,39903.29,60253.97,1.51
+2025-26,Rabi,Uttar Pradesh,Lucknow,Rapeseed & Mustard,Oilseed,42871.51,67638.38,1.5777
+2025-26,Rabi,Uttar Pradesh,Agra,Gram,Pulse,25026.94,33573.64,1.3415
+2025-26,Rabi,Uttar Pradesh,Lucknow,Gram,Pulse,35202.83,40863.45,1.1608
+2025-26,Kharif,Uttar Pradesh,Agra,Arhar/Tur,Pulse,18051.89,21763.36,1.2056
+2025-26,Kharif,Uttar Pradesh,Lucknow,Arhar/Tur,Pulse,39138.11,48887.41,1.2491
+2025-26,Kharif,Uttar Pradesh,Agra,Moong(Green Gram),Pulse,29878.67,37560.48,1.2571
+2025-26,Kharif,Uttar Pradesh,Lucknow,Moong(Green Gram),Pulse,27589.12,33628.38,1.2189
+2025-26,Kharif,Madhya Pradesh,Indore,Tomato,Horticulture,12651.38,208937.54,16.515
+2025-26,Kharif,Madhya Pradesh,Ujjain,Tomato,Horticulture,11324.11,173521.6,15.3232
+2025-26,Kharif,Madhya Pradesh,Indore,Onion,Horticulture,11710.05,245957.89,21.004
+2025-26,Kharif,Madhya Pradesh,Ujjain,Onion,Horticulture,10921.28,235494.47,21.5629
+2025-26,Kharif,Madhya Pradesh,Indore,Cabbage,Horticulture,13507.38,293545.08,21.7322
+2025-26,Kharif,Madhya Pradesh,Ujjain,Cabbage,Horticulture,7827.14,129109.46,16.4951
+2025-26,Kharif,Madhya Pradesh,Indore,Cauliflower,Horticulture,11228.61,219595.68,19.5568
+2025-26,Kharif,Madhya Pradesh,Ujjain,Cauliflower,Horticulture,8203.76,127438.85,15.5342
+2025-26,Kharif,Madhya Pradesh,Indore,Brinjal,Horticulture,12753.07,219456.1,17.2081
+2025-26,Kharif,Madhya Pradesh,Ujjain,Brinjal,Horticulture,12212.29,249659.51,20.4433
+2025-26,Kharif,Madhya Pradesh,Indore,Chillies,Spice,11453.87,250946.27,21.9093
+2025-26,Kharif,Madhya Pradesh,Ujjain,Chillies,Spice,11458.11,222234.63,19.3954
+2025-26,Rabi,Madhya Pradesh,Indore,Potato,Horticulture,11469.11,200117.62,17.4484
+2025-26,Rabi,Madhya Pradesh,Ujjain,Potato,Horticulture,8353.03,183561.18,21.9754
+2025-26,Rabi,Madhya Pradesh,Indore,Garlic,Spice,5096.58,22034.55,4.3234
+2025-26,Rabi,Madhya Pradesh,Ujjain,Garlic,Spice,6641.8,38679.85,5.8237
+2025-26,Kharif,Madhya Pradesh,Indore,Turmeric,Spice,4913.82,22158.38,4.5094
+2025-26,Kharif,Madhya Pradesh,Ujjain,Turmeric,Spice,4831.41,28831.44,5.9675
+2025-26,Rabi,Madhya Pradesh,Indore,Wheat,Cereal,47263.47,195391.91,4.1341
+2025-26,Rabi,Madhya Pradesh,Ujjain,Wheat,Cereal,74430.45,297535.72,3.9975
+2025-26,Kharif,Madhya Pradesh,Indore,Rice,Cereal,44786.31,142899.68,3.1907
+2025-26,Kharif,Madhya Pradesh,Ujjain,Rice,Cereal,75451.44,256368.9,3.3978
+2025-26,Kharif,Madhya Pradesh,Indore,Maize,Cereal,72854.9,246213.13,3.3795
+2025-26,Kharif,Madhya Pradesh,Ujjain,Maize,Cereal,73865.72,270267.28,3.6589
+2025-26,Kharif,Madhya Pradesh,Indore,Soyabean,Oilseed,39628.44,56787.55,1.433
+2025-26,Kharif,Madhya Pradesh,Ujjain,Soyabean,Oilseed,35788.58,45129.4,1.261
+2025-26,Kharif,Madhya Pradesh,Indore,Groundnut,Oilseed,43438.07,65074.57,1.4981
+2025-26,Kharif,Madhya Pradesh,Ujjain,Groundnut,Oilseed,40775.34,57387.21,1.4074
+2025-26,Rabi,Madhya Pradesh,Indore,Rapeseed & Mustard,Oilseed,37372.94,63335.92,1.6947
+2025-26,Rabi,Madhya Pradesh,Ujjain,Rapeseed & Mustard,Oilseed,51015.29,87037.19,1.7061
+2025-26,Rabi,Madhya Pradesh,Indore,Gram,Pulse,41830.36,52513.83,1.2554
+2025-26,Rabi,Madhya Pradesh,Ujjain,Gram,Pulse,37614.46,35692.36,0.9489
+2025-26,Kharif,Madhya Pradesh,Indore,Arhar/Tur,Pulse,21285.53,26581.37,1.2488
+2025-26,Kharif,Madhya Pradesh,Ujjain,Arhar/Tur,Pulse,22168.44,23538.45,1.0618
+2025-26,Kharif,Madhya Pradesh,Indore,Moong(Green Gram),Pulse,37822.29,40280.74,1.065
+2025-26,Kharif,Madhya Pradesh,Ujjain,Moong(Green Gram),Pulse,41937.44,51260.13,1.2223
+2025-26,Kharif,Rajasthan,Kota,Tomato,Horticulture,12396.6,260679.42,21.0283
+2025-26,Kharif,Rajasthan,Jaipur,Tomato,Horticulture,8846.57,153093.43,17.3054
+2025-26,Kharif,Rajasthan,Kota,Onion,Horticulture,8085.38,160687.23,19.8738
+2025-26,Kharif,Rajasthan,Jaipur,Onion,Horticulture,6962.17,129557.63,18.6088
+2025-26,Kharif,Rajasthan,Kota,Cabbage,Horticulture,12520.13,276409.41,22.0772
+2025-26,Kharif,Rajasthan,Jaipur,Cabbage,Horticulture,13367.01,234357.1,17.5325
+2025-26,Kharif,Rajasthan,Kota,Cauliflower,Horticulture,10362.49,206204.22,19.8991
+2025-26,Kharif,Rajasthan,Jaipur,Cauliflower,Horticulture,11645.79,234143.27,20.1054
+2025-26,Kharif,Rajasthan,Kota,Brinjal,Horticulture,10043.01,176963.86,17.6206
+2025-26,Kharif,Rajasthan,Jaipur,Brinjal,Horticulture,9040.39,201421.7,22.2802
+2025-26,Kharif,Rajasthan,Kota,Chillies,Spice,9875.94,200685.03,20.3206
+2025-26,Kharif,Rajasthan,Jaipur,Chillies,Spice,12962.85,214588.32,16.5541
+2025-26,Rabi,Rajasthan,Kota,Potato,Horticulture,7663.47,134236.41,17.5164
+2025-26,Rabi,Rajasthan,Jaipur,Potato,Horticulture,11061.93,199403.46,18.0261
+2025-26,Rabi,Rajasthan,Kota,Garlic,Spice,7192.76,38784.08,5.3921
+2025-26,Rabi,Rajasthan,Jaipur,Garlic,Spice,6363.65,33451.16,5.2566
+2025-26,Kharif,Rajasthan,Kota,Turmeric,Spice,6458.61,39837.35,6.1681
+2025-26,Kharif,Rajasthan,Jaipur,Turmeric,Spice,7194.93,39775.73,5.5283
+2025-26,Rabi,Rajasthan,Kota,Wheat,Cereal,44870.45,177341.48,3.9523
+2025-26,Rabi,Rajasthan,Jaipur,Wheat,Cereal,45936.35,160304.08,3.4897
+2025-26,Kharif,Rajasthan,Kota,Rice,Cereal,56503.27,219255.29,3.8804
+2025-26,Kharif,Rajasthan,Jaipur,Rice,Cereal,67579.06,259172.45,3.8351
+2025-26,Kharif,Rajasthan,Kota,Maize,Cereal,55346.33,185686.94,3.355
+2025-26,Kharif,Rajasthan,Jaipur,Maize,Cereal,50744.54,181163.08,3.5701
+2025-26,Kharif,Rajasthan,Kota,Soyabean,Oilseed,47432.92,74626.21,1.5733
+2025-26,Kharif,Rajasthan,Jaipur,Soyabean,Oilseed,34082.42,46989.43,1.3787
+2025-26,Kharif,Rajasthan,Kota,Groundnut,Oilseed,44260.75,67732.23,1.5303
+2025-26,Kharif,Rajasthan,Jaipur,Groundnut,Oilseed,28618.14,41911.27,1.4645
+2025-26,Rabi,Rajasthan,Kota,Rapeseed & Mustard,Oilseed,48123.87,77479.43,1.61
+2025-26,Rabi,Rajasthan,Jaipur,Rapeseed & Mustard,Oilseed,33799.02,47693.8,1.4111
+2025-26,Rabi,Rajasthan,Kota,Gram,Pulse,34326.89,35264.01,1.0273
+2025-26,Rabi,Rajasthan,Jaipur,Gram,Pulse,17220.22,16116.4,0.9359
+2025-26,Kharif,Rajasthan,Kota,Arhar/Tur,Pulse,30365.03,38375.32,1.2638
+2025-26,Kharif,Rajasthan,Jaipur,Arhar/Tur,Pulse,32450.47,35594.92,1.0969
+2025-26,Kharif,Rajasthan,Kota,Moong(Green Gram),Pulse,18470.91,19414.77,1.0511
+2025-26,Kharif,Rajasthan,Jaipur,Moong(Green Gram),Pulse,27993.18,27186.98,0.9712
+2025-26,Kharif,Gujarat,Mehsana,Tomato,Horticulture,10082.23,189140.62,18.7598
+2025-26,Kharif,Gujarat,Rajkot,Tomato,Horticulture,11755.73,206646.92,17.5784
+2025-26,Kharif,Gujarat,Mehsana,Onion,Horticulture,12584.84,281895.38,22.3996
+2025-26,Kharif,Gujarat,Rajkot,Onion,Horticulture,12889.23,225825.75,17.5205
+2025-26,Kharif,Gujarat,Mehsana,Cabbage,Horticulture,12235.04,243822.32,19.9282
+2025-26,Kharif,Gujarat,Rajkot,Cabbage,Horticulture,11690.89,201870.1,17.2673
+2025-26,Kharif,Gujarat,Mehsana,Cauliflower,Horticulture,11221.61,198653.92,17.7028
+2025-26,Kharif,Gujarat,Rajkot,Cauliflower,Horticulture,12016.33,258176.86,21.4855
+2025-26,Kharif,Gujarat,Mehsana,Brinjal,Horticulture,11440.04,221975.67,19.4034
+2025-26,Kharif,Gujarat,Rajkot,Brinjal,Horticulture,12295.66,207746.24,16.8959
+2025-26,Kharif,Gujarat,Mehsana,Chillies,Spice,10577.63,231546.44,21.8902
+2025-26,Kharif,Gujarat,Rajkot,Chillies,Spice,11111.04,220199.7,19.8181
+2025-26,Rabi,Gujarat,Mehsana,Potato,Horticulture,11242.77,212148.82,18.8698
+2025-26,Rabi,Gujarat,Rajkot,Potato,Horticulture,11233.99,204802.38,18.2306
+2025-26,Rabi,Gujarat,Mehsana,Garlic,Spice,3484.74,20700.05,5.9402
+2025-26,Rabi,Gujarat,Rajkot,Garlic,Spice,6434.82,35278.9,5.4825
+2025-26,Kharif,Gujarat,Mehsana,Turmeric,Spice,4548.24,21420.85,4.7097
+2025-26,Kharif,Gujarat,Rajkot,Turmeric,Spice,4850.76,22983.39,4.7381
+2025-26,Rabi,Gujarat,Mehsana,Wheat,Cereal,68461.79,223349.74,3.2624
+2025-26,Rabi,Gujarat,Rajkot,Wheat,Cereal,55240.17,213840.22,3.8711
+2025-26,Kharif,Gujarat,Mehsana,Rice,Cereal,50049.81,166340.54,3.3235
+2025-26,Kharif,Gujarat,Rajkot,Rice,Cereal,68053.67,252805.77,3.7148
+2025-26,Kharif,Gujarat,Mehsana,Maize,Cereal,50520.0,166023.88,3.2863
+2025-26,Kharif,Gujarat,Rajkot,Maize,Cereal,52314.99,171635.02,3.2808
+2025-26,Kharif,Gujarat,Mehsana,Soyabean,Oilseed,29907.42,39827.71,1.3317
+2025-26,Kharif,Gujarat,Rajkot,Soyabean,Oilseed,44982.72,65305.91,1.4518
+2025-26,Kharif,Gujarat,Mehsana,Groundnut,Oilseed,42975.57,60410.76,1.4057
+2025-26,Kharif,Gujarat,Rajkot,Groundnut,Oilseed,33667.01,47733.09,1.4178
+2025-26,Rabi,Gujarat,Mehsana,Rapeseed & Mustard,Oilseed,45435.13,66771.47,1.4696
+2025-26,Rabi,Gujarat,Rajkot,Rapeseed & Mustard,Oilseed,23488.54,28782.86,1.2254
+2025-26,Rabi,Gujarat,Mehsana,Gram,Pulse,22897.4,23460.68,1.0246
+2025-26,Rabi,Gujarat,Rajkot,Gram,Pulse,20088.93,19890.05,0.9901
+2025-26,Kharif,Gujarat,Mehsana,Arhar/Tur,Pulse,21300.27,26757.4,1.2562
+2025-26,Kharif,Gujarat,Rajkot,Arhar/Tur,Pulse,26870.46,25274.35,0.9406
+2025-26,Kharif,Gujarat,Mehsana,Moong(Green Gram),Pulse,17737.92,21519.64,1.2132
+2025-26,Kharif,Gujarat,Rajkot,Moong(Green Gram),Pulse,26585.54,29642.88,1.115
+2025-26,Kharif,Karnataka,Kolar,Tomato,Horticulture,8249.18,157266.49,19.0645
+2025-26,Kharif,Karnataka,Bengaluru Urban,Tomato,Horticulture,16538.06,330499.9,19.9842
+2025-26,Kharif,Karnataka,Kolar,Onion,Horticulture,14597.48,302526.93,20.7246
+2025-26,Kharif,Karnataka,Bengaluru Urban,Onion,Horticulture,16363.11,356468.72,21.7849
+2025-26,Kharif,Karnataka,Kolar,Cabbage,Horticulture,10570.04,208231.9,19.7002
+2025-26,Kharif,Karnataka,Bengaluru Urban,Cabbage,Horticulture,8122.14,180054.04,22.1683
+2025-26,Kharif,Karnataka,Kolar,Cauliflower,Horticulture,10298.37,214067.07,20.7865
+2025-26,Kharif,Karnataka,Bengaluru Urban,Cauliflower,Horticulture,14835.74,273361.86,18.4259
+2025-26,Kharif,Karnataka,Kolar,Brinjal,Horticulture,9717.99,198478.28,20.4238
+2025-26,Kharif,Karnataka,Bengaluru Urban,Brinjal,Horticulture,9836.89,162003.74,16.469
+2025-26,Kharif,Karnataka,Kolar,Chillies,Spice,11028.21,171519.54,15.5528
+2025-26,Kharif,Karnataka,Bengaluru Urban,Chillies,Spice,16740.76,337050.09,20.1335
+2025-26,Rabi,Karnataka,Kolar,Potato,Horticulture,9705.95,203960.83,21.014
+2025-26,Rabi,Karnataka,Bengaluru Urban,Potato,Horticulture,12584.37,258415.0,20.5346
+2025-26,Rabi,Karnataka,Kolar,Garlic,Spice,6414.59,33850.43,5.2771
+2025-26,Rabi,Karnataka,Bengaluru Urban,Garlic,Spice,5351.63,28060.2,5.2433
+2025-26,Kharif,Karnataka,Kolar,Turmeric,Spice,6168.92,35785.29,5.8009
+2025-26,Kharif,Karnataka,Bengaluru Urban,Turmeric,Spice,5435.56,27691.46,5.0945
+2025-26,Rabi,Karnataka,Kolar,Wheat,Cereal,61216.05,213093.07,3.481
+2025-26,Rabi,Karnataka,Bengaluru Urban,Wheat,Cereal,57742.53,220437.88,3.8176
+2025-26,Kharif,Karnataka,Kolar,Rice,Cereal,69782.84,278824.32,3.9956
+2025-26,Kharif,Karnataka,Bengaluru Urban,Rice,Cereal,72711.17,206536.08,2.8405
+2025-26,Kharif,Karnataka,Kolar,Maize,Cereal,85861.33,244885.1,2.8521
+2025-26,Kharif,Karnataka,Bengaluru Urban,Maize,Cereal,78356.89,319045.75,4.0717
+2025-26,Kharif,Karnataka,Kolar,Soyabean,Oilseed,25739.01,33450.42,1.2996
+2025-26,Kharif,Karnataka,Bengaluru Urban,Soyabean,Oilseed,28573.23,35007.92,1.2252
+2025-26,Kharif,Karnataka,Kolar,Groundnut,Oilseed,29325.81,33909.43,1.1563
+2025-26,Kharif,Karnataka,Bengaluru Urban,Groundnut,Oilseed,41474.77,68657.33,1.6554
+2025-26,Rabi,Karnataka,Kolar,Rapeseed & Mustard,Oilseed,48988.5,78651.04,1.6055
+2025-26,Rabi,Karnataka,Bengaluru Urban,Rapeseed & Mustard,Oilseed,53885.49,68025.04,1.2624
+2025-26,Rabi,Karnataka,Kolar,Gram,Pulse,41679.38,51419.85,1.2337
+2025-26,Rabi,Karnataka,Bengaluru Urban,Gram,Pulse,36945.0,41470.76,1.1225
+2025-26,Kharif,Karnataka,Kolar,Arhar/Tur,Pulse,22484.39,23332.05,1.0377
+2025-26,Kharif,Karnataka,Bengaluru Urban,Arhar/Tur,Pulse,26483.43,26483.43,1.0
+2025-26,Kharif,Karnataka,Kolar,Moong(Green Gram),Pulse,28780.65,32050.13,1.1136
+2025-26,Kharif,Karnataka,Bengaluru Urban,Moong(Green Gram),Pulse,36919.83,44573.31,1.2073
+2025-26,Kharif,Punjab,Ludhiana,Tomato,Horticulture,10916.78,203993.13,18.6862
+2025-26,Kharif,Punjab,Patiala,Tomato,Horticulture,8106.85,144341.65,17.8049
+2025-26,Kharif,Punjab,Ludhiana,Onion,Horticulture,11253.69,191115.79,16.9825
+2025-26,Kharif,Punjab,Patiala,Onion,Horticulture,10074.19,162091.7,16.0898
+2025-26,Kharif,Punjab,Ludhiana,Cabbage,Horticulture,8188.07,157713.69,19.2614
+2025-26,Kharif,Punjab,Patiala,Cabbage,Horticulture,13054.15,221903.58,16.9987
+2025-26,Kharif,Punjab,Ludhiana,Cauliflower,Horticulture,7124.15,132837.61,18.6461
+2025-26,Kharif,Punjab,Patiala,Cauliflower,Horticulture,13890.95,287719.08,20.7127
+2025-26,Kharif,Punjab,Ludhiana,Brinjal,Horticulture,8967.72,180329.19,20.1087
+2025-26,Kharif,Punjab,Patiala,Brinjal,Horticulture,14611.04,242031.88,16.565
+2025-26,Kharif,Punjab,Ludhiana,Chillies,Spice,10547.08,184145.69,17.4594
+2025-26,Kharif,Punjab,Patiala,Chillies,Spice,10846.75,222090.46,20.4753
+2025-26,Rabi,Punjab,Ludhiana,Potato,Horticulture,13792.75,276946.01,20.0791
+2025-26,Rabi,Punjab,Patiala,Potato,Horticulture,13821.56,299904.36,21.6983
+2025-26,Rabi,Punjab,Ludhiana,Garlic,Spice,4947.19,23297.31,4.7092
+2025-26,Rabi,Punjab,Patiala,Garlic,Spice,6100.65,38194.95,6.2608
+2025-26,Kharif,Punjab,Ludhiana,Turmeric,Spice,5573.03,29815.15,5.3499
+2025-26,Kharif,Punjab,Patiala,Turmeric,Spice,3774.54,20276.83,5.372
+2025-26,Rabi,Punjab,Ludhiana,Wheat,Cereal,52896.64,167105.78,3.1591
+2025-26,Rabi,Punjab,Patiala,Wheat,Cereal,38322.81,152999.99,3.9924
+2025-26,Kharif,Punjab,Ludhiana,Rice,Cereal,44266.46,148598.08,3.3569
+2025-26,Kharif,Punjab,Patiala,Rice,Cereal,67212.88,215995.31,3.2136
+2025-26,Kharif,Punjab,Ludhiana,Maize,Cereal,38136.62,157103.81,4.1195
+2025-26,Kharif,Punjab,Patiala,Maize,Cereal,67944.43,215594.47,3.1731
+2025-26,Kharif,Punjab,Ludhiana,Soyabean,Oilseed,33723.76,45179.72,1.3397
+2025-26,Kharif,Punjab,Patiala,Soyabean,Oilseed,36157.67,59580.61,1.6478
+2025-26,Kharif,Punjab,Ludhiana,Groundnut,Oilseed,40067.07,58041.16,1.4486
+2025-26,Kharif,Punjab,Patiala,Groundnut,Oilseed,26483.8,44892.69,1.6951
+2025-26,Rabi,Punjab,Ludhiana,Rapeseed & Mustard,Oilseed,32201.09,47976.4,1.4899
+2025-26,Rabi,Punjab,Patiala,Rapeseed & Mustard,Oilseed,25879.91,36353.51,1.4047
+2025-26,Rabi,Punjab,Ludhiana,Gram,Pulse,17366.8,16177.17,0.9315
+2025-26,Rabi,Punjab,Patiala,Gram,Pulse,24774.66,27556.85,1.1123
+2025-26,Kharif,Punjab,Ludhiana,Arhar/Tur,Pulse,28875.39,33342.41,1.1547
+2025-26,Kharif,Punjab,Patiala,Arhar/Tur,Pulse,38206.58,48870.04,1.2791
+2025-26,Kharif,Punjab,Ludhiana,Moong(Green Gram),Pulse,19772.32,22388.2,1.1323
+2025-26,Kharif,Punjab,Patiala,Moong(Green Gram),Pulse,30162.74,32560.68,1.0795
+2025-26,Kharif,Haryana,Karnal,Tomato,Horticulture,13673.87,218143.35,15.9533
+2025-26,Kharif,Haryana,Hisar,Tomato,Horticulture,8478.51,131190.53,15.4733
+2025-26,Kharif,Haryana,Karnal,Onion,Horticulture,11102.49,181788.84,16.3737
+2025-26,Kharif,Haryana,Hisar,Onion,Horticulture,10440.56,175600.82,16.8191
+2025-26,Kharif,Haryana,Karnal,Cabbage,Horticulture,8473.07,139217.62,16.4306
+2025-26,Kharif,Haryana,Hisar,Cabbage,Horticulture,8012.16,153839.08,19.2007
+2025-26,Kharif,Haryana,Karnal,Cauliflower,Horticulture,8887.15,193376.39,21.7591
+2025-26,Kharif,Haryana,Hisar,Cauliflower,Horticulture,9455.91,194357.72,20.5541
+2025-26,Kharif,Haryana,Karnal,Brinjal,Horticulture,8139.4,137993.76,16.9538
+2025-26,Kharif,Haryana,Hisar,Brinjal,Horticulture,10089.99,207681.26,20.5829
+2025-26,Kharif,Haryana,Karnal,Chillies,Spice,14653.22,225341.61,15.3783
+2025-26,Kharif,Haryana,Hisar,Chillies,Spice,10716.58,216524.21,20.2046
+2025-26,Rabi,Haryana,Karnal,Potato,Horticulture,13432.26,264211.21,19.6699
+2025-26,Rabi,Haryana,Hisar,Potato,Horticulture,14888.36,274524.98,18.4389
+2025-26,Rabi,Haryana,Karnal,Garlic,Spice,4493.89,19183.52,4.2688
+2025-26,Rabi,Haryana,Hisar,Garlic,Spice,6017.38,26306.78,4.3718
+2025-26,Kharif,Haryana,Karnal,Turmeric,Spice,4944.61,25133.95,5.0831
+2025-26,Kharif,Haryana,Hisar,Turmeric,Spice,5938.17,30164.72,5.0798
+2025-26,Rabi,Haryana,Karnal,Wheat,Cereal,37366.69,135633.61,3.6298
+2025-26,Rabi,Haryana,Hisar,Wheat,Cereal,44527.21,167551.44,3.7629
+2025-26,Kharif,Haryana,Karnal,Rice,Cereal,40632.68,127696.32,3.1427
+2025-26,Kharif,Haryana,Hisar,Rice,Cereal,58237.75,237481.9,4.0778
+2025-26,Kharif,Haryana,Karnal,Maize,Cereal,42750.75,144805.34,3.3872
+2025-26,Kharif,Haryana,Hisar,Maize,Cereal,52157.66,191110.88,3.6641
+2025-26,Kharif,Haryana,Karnal,Soyabean,Oilseed,46830.99,76423.49,1.6319
+2025-26,Kharif,Haryana,Hisar,Soyabean,Oilseed,41369.78,49618.91,1.1994
+2025-26,Kharif,Haryana,Karnal,Groundnut,Oilseed,49116.27,80437.72,1.6377
+2025-26,Kharif,Haryana,Hisar,Groundnut,Oilseed,28741.92,40020.25,1.3924
+2025-26,Rabi,Haryana,Karnal,Rapeseed & Mustard,Oilseed,38771.86,66086.64,1.7045
+2025-26,Rabi,Haryana,Hisar,Rapeseed & Mustard,Oilseed,44491.95,51107.9,1.1487
+2025-26,Rabi,Haryana,Karnal,Gram,Pulse,35738.85,41925.24,1.1731
+2025-26,Rabi,Haryana,Hisar,Gram,Pulse,30133.61,37642.91,1.2492
+2025-26,Kharif,Haryana,Karnal,Arhar/Tur,Pulse,38107.17,39627.65,1.0399
+2025-26,Kharif,Haryana,Hisar,Arhar/Tur,Pulse,36902.96,42390.43,1.1487
+2025-26,Kharif,Haryana,Karnal,Moong(Green Gram),Pulse,39348.56,36845.99,0.9364
+2025-26,Kharif,Haryana,Hisar,Moong(Green Gram),Pulse,30564.5,31255.26,1.0226
+2025-26,Kharif,West Bengal,Kolkata,Tomato,Horticulture,4082.48,84076.23,20.5944
+2025-26,Kharif,West Bengal,Darjeeling,Tomato,Horticulture,3028.47,52526.69,17.3443
+2025-26,Kharif,West Bengal,Kolkata,Onion,Horticulture,2283.22,34845.82,15.2617
+2025-26,Kharif,West Bengal,Darjeeling,Onion,Horticulture,3782.39,61142.71,16.1651
+2025-26,Kharif,West Bengal,Kolkata,Cabbage,Horticulture,3112.26,60116.1,19.3159
+2025-26,Kharif,West Bengal,Darjeeling,Cabbage,Horticulture,2997.71,57270.05,19.1046
+2025-26,Kharif,West Bengal,Kolkata,Cauliflower,Horticulture,3958.01,78697.11,19.883
+2025-26,Kharif,West Bengal,Darjeeling,Cauliflower,Horticulture,3802.38,85612.49,22.5155
+2025-26,Kharif,West Bengal,Kolkata,Brinjal,Horticulture,2679.34,53905.37,20.1189
+2025-26,Kharif,West Bengal,Darjeeling,Brinjal,Horticulture,4482.51,89332.84,19.9292
+2025-26,Kharif,West Bengal,Kolkata,Chillies,Spice,4137.17,70713.75,17.0923
+2025-26,Kharif,West Bengal,Darjeeling,Chillies,Spice,3887.93,64564.91,16.6065
+2025-26,Rabi,West Bengal,Kolkata,Potato,Horticulture,4135.34,85158.64,20.5929
+2025-26,Rabi,West Bengal,Darjeeling,Potato,Horticulture,2210.72,46241.41,20.9169
+2025-26,Rabi,West Bengal,Kolkata,Garlic,Spice,2313.15,14013.06,6.058
+2025-26,Rabi,West Bengal,Darjeeling,Garlic,Spice,1330.8,7620.29,5.7261
+2025-26,Kharif,West Bengal,Kolkata,Turmeric,Spice,1473.71,6411.52,4.3506
+2025-26,Kharif,West Bengal,Darjeeling,Turmeric,Spice,1628.55,8291.11,5.0911
+2025-26,Rabi,West Bengal,Kolkata,Wheat,Cereal,24535.41,97606.77,3.9782
+2025-26,Rabi,West Bengal,Darjeeling,Wheat,Cereal,19241.16,72854.73,3.7864
+2025-26,Kharif,West Bengal,Kolkata,Rice,Cereal,15799.1,46789.03,2.9615
+2025-26,Kharif,West Bengal,Darjeeling,Rice,Cereal,22057.63,84864.53,3.8474
+2025-26,Kharif,West Bengal,Kolkata,Maize,Cereal,14268.11,52238.4,3.6612
+2025-26,Kharif,West Bengal,Darjeeling,Maize,Cereal,12542.69,40403.77,3.2213
+2025-26,Kharif,West Bengal,Kolkata,Soyabean,Oilseed,10048.17,15004.93,1.4933
+2025-26,Kharif,West Bengal,Darjeeling,Soyabean,Oilseed,12165.75,19543.06,1.6064
+2025-26,Kharif,West Bengal,Kolkata,Groundnut,Oilseed,11671.05,17359.52,1.4874
+2025-26,Kharif,West Bengal,Darjeeling,Groundnut,Oilseed,11947.64,16778.07,1.4043
+2025-26,Rabi,West Bengal,Kolkata,Rapeseed & Mustard,Oilseed,11839.33,13920.68,1.1758
+2025-26,Rabi,West Bengal,Darjeeling,Rapeseed & Mustard,Oilseed,15391.67,20036.88,1.3018
+2025-26,Rabi,West Bengal,Kolkata,Gram,Pulse,6912.18,7427.14,1.0745
+2025-26,Rabi,West Bengal,Darjeeling,Gram,Pulse,6180.09,6597.86,1.0676
+2025-26,Kharif,West Bengal,Kolkata,Arhar/Tur,Pulse,7053.51,7971.88,1.1302
+2025-26,Kharif,West Bengal,Darjeeling,Arhar/Tur,Pulse,6441.83,7766.91,1.2057
+2025-26,Kharif,West Bengal,Kolkata,Moong(Green Gram),Pulse,12322.34,14669.75,1.1905
+2025-26,Kharif,West Bengal,Darjeeling,Moong(Green Gram),Pulse,8853.09,10771.55,1.2167
+2025-26,Kharif,Bihar,Patna,Tomato,Horticulture,8444.65,139521.66,16.5219
+2025-26,Kharif,Bihar,Muzaffarpur,Tomato,Horticulture,7459.33,135712.07,18.1936
+2025-26,Kharif,Bihar,Patna,Onion,Horticulture,8633.68,143544.43,16.6261
+2025-26,Kharif,Bihar,Muzaffarpur,Onion,Horticulture,10206.11,174681.66,17.1154
+2025-26,Kharif,Bihar,Patna,Cabbage,Horticulture,8942.21,157923.9,17.6605
+2025-26,Kharif,Bihar,Muzaffarpur,Cabbage,Horticulture,5260.09,107841.84,20.5019
+2025-26,Kharif,Bihar,Patna,Cauliflower,Horticulture,8206.15,134262.46,16.3612
+2025-26,Kharif,Bihar,Muzaffarpur,Cauliflower,Horticulture,5942.31,121433.48,20.4354
+2025-26,Kharif,Bihar,Patna,Brinjal,Horticulture,7142.84,127860.41,17.9005
+2025-26,Kharif,Bihar,Muzaffarpur,Brinjal,Horticulture,8755.13,148396.83,16.9497
+2025-26,Kharif,Bihar,Patna,Chillies,Spice,8735.59,155939.02,17.851
+2025-26,Kharif,Bihar,Muzaffarpur,Chillies,Spice,7630.59,156470.59,20.5057
+2025-26,Rabi,Bihar,Patna,Potato,Horticulture,9215.42,190776.7,20.7019
+2025-26,Rabi,Bihar,Muzaffarpur,Potato,Horticulture,4846.42,103097.41,21.2729
+2025-26,Rabi,Bihar,Patna,Garlic,Spice,4782.53,27131.29,5.673
+2025-26,Rabi,Bihar,Muzaffarpur,Garlic,Spice,3665.91,16463.6,4.491
+2025-26,Kharif,Bihar,Patna,Turmeric,Spice,2994.68,17535.05,5.8554
+2025-26,Kharif,Bihar,Muzaffarpur,Turmeric,Spice,3026.53,14905.05,4.9248
+2025-26,Rabi,Bihar,Patna,Wheat,Cereal,45737.51,178111.01,3.8942
+2025-26,Rabi,Bihar,Muzaffarpur,Wheat,Cereal,29292.18,112593.28,3.8438
+2025-26,Kharif,Bihar,Patna,Rice,Cereal,38291.14,146505.73,3.8261
+2025-26,Kharif,Bihar,Muzaffarpur,Rice,Cereal,43329.05,126191.53,2.9124
+2025-26,Kharif,Bihar,Patna,Maize,Cereal,41491.75,139843.79,3.3704
+2025-26,Kharif,Bihar,Muzaffarpur,Maize,Cereal,39356.5,123166.17,3.1295
+2025-26,Kharif,Bihar,Patna,Soyabean,Oilseed,27751.72,36313.13,1.3085
+2025-26,Kharif,Bihar,Muzaffarpur,Soyabean,Oilseed,29580.74,42359.62,1.432
+2025-26,Kharif,Bihar,Patna,Groundnut,Oilseed,18683.58,22986.41,1.2303
+2025-26,Kharif,Bihar,Muzaffarpur,Groundnut,Oilseed,20132.84,31163.62,1.5479
+2025-26,Rabi,Bihar,Patna,Rapeseed & Mustard,Oilseed,24493.19,36509.55,1.4906
+2025-26,Rabi,Bihar,Muzaffarpur,Rapeseed & Mustard,Oilseed,16279.61,27103.92,1.6649
+2025-26,Rabi,Bihar,Patna,Gram,Pulse,15492.24,18459.0,1.1915
+2025-26,Rabi,Bihar,Muzaffarpur,Gram,Pulse,17368.6,20526.21,1.1818
+2025-26,Kharif,Bihar,Patna,Arhar/Tur,Pulse,17760.68,20185.01,1.1365
+2025-26,Kharif,Bihar,Muzaffarpur,Arhar/Tur,Pulse,15562.54,15140.8,0.9729
+2025-26,Kharif,Bihar,Patna,Moong(Green Gram),Pulse,12352.98,14740.81,1.1933
+2025-26,Kharif,Bihar,Muzaffarpur,Moong(Green Gram),Pulse,26332.72,27920.58,1.0603
+2025-26,Kharif,Andhra Pradesh,Guntur,Tomato,Horticulture,10967.52,204550.83,18.6506
+2025-26,Kharif,Andhra Pradesh,Kurnool,Tomato,Horticulture,6755.74,113626.14,16.8192
+2025-26,Kharif,Andhra Pradesh,Guntur,Onion,Horticulture,9364.76,147333.9,15.7328
+2025-26,Kharif,Andhra Pradesh,Kurnool,Onion,Horticulture,9979.15,203187.47,20.3612
+2025-26,Kharif,Andhra Pradesh,Guntur,Cabbage,Horticulture,10329.65,170136.57,16.4707
+2025-26,Kharif,Andhra Pradesh,Kurnool,Cabbage,Horticulture,12145.52,243017.28,20.0088
+2025-26,Kharif,Andhra Pradesh,Guntur,Cauliflower,Horticulture,7656.5,134700.8,17.593
+2025-26,Kharif,Andhra Pradesh,Kurnool,Cauliflower,Horticulture,9244.87,205928.55,22.2749
+2025-26,Kharif,Andhra Pradesh,Guntur,Brinjal,Horticulture,8768.38,133963.31,15.278
+2025-26,Kharif,Andhra Pradesh,Kurnool,Brinjal,Horticulture,7006.87,129112.09,18.4265
+2025-26,Kharif,Andhra Pradesh,Guntur,Chillies,Spice,8026.85,176341.06,21.9689
+2025-26,Kharif,Andhra Pradesh,Kurnool,Chillies,Spice,6665.55,128435.82,19.2686
+2025-26,Rabi,Andhra Pradesh,Guntur,Potato,Horticulture,9725.17,149751.09,15.3983
+2025-26,Rabi,Andhra Pradesh,Kurnool,Potato,Horticulture,10917.22,173379.65,15.8813
+2025-26,Rabi,Andhra Pradesh,Guntur,Garlic,Spice,5779.93,32809.77,5.6765
+2025-26,Rabi,Andhra Pradesh,Kurnool,Garlic,Spice,5742.93,26146.99,4.5529
+2025-26,Kharif,Andhra Pradesh,Guntur,Turmeric,Spice,3605.89,19790.21,5.4883
+2025-26,Kharif,Andhra Pradesh,Kurnool,Turmeric,Spice,3912.31,23324.02,5.9617
+2025-26,Rabi,Andhra Pradesh,Guntur,Wheat,Cereal,35806.3,140034.86,3.9109
+2025-26,Rabi,Andhra Pradesh,Kurnool,Wheat,Cereal,37350.64,143303.2,3.8367
+2025-26,Kharif,Andhra Pradesh,Guntur,Rice,Cereal,47533.6,148647.07,3.1272
+2025-26,Kharif,Andhra Pradesh,Kurnool,Rice,Cereal,40810.64,138850.04,3.4023
+2025-26,Kharif,Andhra Pradesh,Guntur,Maize,Cereal,40087.05,119258.97,2.975
+2025-26,Kharif,Andhra Pradesh,Kurnool,Maize,Cereal,33282.5,123890.78,3.7224
+2025-26,Kharif,Andhra Pradesh,Guntur,Soyabean,Oilseed,38024.19,43841.89,1.153
+2025-26,Kharif,Andhra Pradesh,Kurnool,Soyabean,Oilseed,40721.6,51125.97,1.2555
+2025-26,Kharif,Andhra Pradesh,Guntur,Groundnut,Oilseed,40686.24,56834.61,1.3969
+2025-26,Kharif,Andhra Pradesh,Kurnool,Groundnut,Oilseed,35317.92,58744.3,1.6633
+2025-26,Rabi,Andhra Pradesh,Guntur,Rapeseed & Mustard,Oilseed,30755.07,47578.09,1.547
+2025-26,Rabi,Andhra Pradesh,Kurnool,Rapeseed & Mustard,Oilseed,24597.84,32680.69,1.3286
+2025-26,Rabi,Andhra Pradesh,Guntur,Gram,Pulse,22022.44,22852.69,1.0377
+2025-26,Rabi,Andhra Pradesh,Kurnool,Gram,Pulse,27069.36,34995.27,1.2928
+2025-26,Kharif,Andhra Pradesh,Guntur,Arhar/Tur,Pulse,27155.35,35698.42,1.3146
+2025-26,Kharif,Andhra Pradesh,Kurnool,Arhar/Tur,Pulse,26612.1,30864.71,1.1598
+2025-26,Kharif,Andhra Pradesh,Guntur,Moong(Green Gram),Pulse,30988.42,30377.95,0.9803
+2025-26,Kharif,Andhra Pradesh,Kurnool,Moong(Green Gram),Pulse,33752.49,31048.92,0.9199
+2025-26,Kharif,Tamil Nadu,Chennai,Tomato,Horticulture,3636.36,76463.56,21.0275
+2025-26,Kharif,Tamil Nadu,Coimbatore,Tomato,Horticulture,2654.02,40996.38,15.4469
+2025-26,Kharif,Tamil Nadu,Chennai,Onion,Horticulture,4135.15,79830.31,19.3053
+2025-26,Kharif,Tamil Nadu,Coimbatore,Onion,Horticulture,5362.61,83275.43,15.5289
+2025-26,Kharif,Tamil Nadu,Chennai,Cabbage,Horticulture,2589.57,46875.88,18.1018
+2025-26,Kharif,Tamil Nadu,Coimbatore,Cabbage,Horticulture,3487.19,53704.12,15.4004
+2025-26,Kharif,Tamil Nadu,Chennai,Cauliflower,Horticulture,4352.23,66062.06,15.1789
+2025-26,Kharif,Tamil Nadu,Coimbatore,Cauliflower,Horticulture,2663.64,56800.52,21.3244
+2025-26,Kharif,Tamil Nadu,Chennai,Brinjal,Horticulture,5254.21,97247.55,18.5085
+2025-26,Kharif,Tamil Nadu,Coimbatore,Brinjal,Horticulture,5375.73,110915.29,20.6326
+2025-26,Kharif,Tamil Nadu,Chennai,Chillies,Spice,5338.8,96745.46,18.1212
+2025-26,Kharif,Tamil Nadu,Coimbatore,Chillies,Spice,4946.15,80510.46,16.2774
+2025-26,Rabi,Tamil Nadu,Chennai,Potato,Horticulture,5364.86,116874.01,21.7851
+2025-26,Rabi,Tamil Nadu,Coimbatore,Potato,Horticulture,4439.41,85482.62,19.2554
+2025-26,Rabi,Tamil Nadu,Chennai,Garlic,Spice,1957.42,10509.0,5.3688
+2025-26,Rabi,Tamil Nadu,Coimbatore,Garlic,Spice,2474.71,15074.2,6.0913
+2025-26,Kharif,Tamil Nadu,Chennai,Turmeric,Spice,1732.57,10517.57,6.0705
+2025-26,Kharif,Tamil Nadu,Coimbatore,Turmeric,Spice,2282.65,10259.83,4.4947
+2025-26,Rabi,Tamil Nadu,Chennai,Wheat,Cereal,16570.27,51112.65,3.0846
+2025-26,Rabi,Tamil Nadu,Coimbatore,Wheat,Cereal,26588.12,86836.8,3.266
+2025-26,Kharif,Tamil Nadu,Chennai,Rice,Cereal,19631.02,70903.32,3.6118
+2025-26,Kharif,Tamil Nadu,Coimbatore,Rice,Cereal,22500.04,64221.86,2.8543
+2025-26,Kharif,Tamil Nadu,Chennai,Maize,Cereal,16658.59,48641.42,2.9199
+2025-26,Kharif,Tamil Nadu,Coimbatore,Maize,Cereal,13027.74,49042.93,3.7645
+2025-26,Kharif,Tamil Nadu,Chennai,Soyabean,Oilseed,8391.57,13914.06,1.6581
+2025-26,Kharif,Tamil Nadu,Coimbatore,Soyabean,Oilseed,12811.87,21024.28,1.641
+2025-26,Kharif,Tamil Nadu,Chennai,Groundnut,Oilseed,15157.54,21290.28,1.4046
+2025-26,Kharif,Tamil Nadu,Coimbatore,Groundnut,Oilseed,17275.26,26422.51,1.5295
+2025-26,Rabi,Tamil Nadu,Chennai,Rapeseed & Mustard,Oilseed,14555.52,22757.56,1.5635
+2025-26,Rabi,Tamil Nadu,Coimbatore,Rapeseed & Mustard,Oilseed,12021.93,14172.65,1.1789
+2025-26,Rabi,Tamil Nadu,Chennai,Gram,Pulse,8590.94,10786.78,1.2556
+2025-26,Rabi,Tamil Nadu,Coimbatore,Gram,Pulse,13792.34,14517.82,1.0526
+2025-26,Kharif,Tamil Nadu,Chennai,Arhar/Tur,Pulse,9993.21,10688.74,1.0696
+2025-26,Kharif,Tamil Nadu,Coimbatore,Arhar/Tur,Pulse,11150.65,10828.4,0.9711
+2025-26,Kharif,Tamil Nadu,Chennai,Moong(Green Gram),Pulse,11053.39,11535.32,1.0436
+2025-26,Kharif,Tamil Nadu,Coimbatore,Moong(Green Gram),Pulse,9936.35,11809.35,1.1885
+2026-27,Kharif,Maharashtra,Nashik,Tomato,Horticulture,11045.1,201950.82,18.2842
+2026-27,Kharif,Maharashtra,Pune,Tomato,Horticulture,10884.81,231109.55,21.2323
+2026-27,Kharif,Maharashtra,Nashik,Onion,Horticulture,9697.52,216663.93,22.3422
+2026-27,Kharif,Maharashtra,Pune,Onion,Horticulture,12521.42,198302.98,15.8371
+2026-27,Kharif,Maharashtra,Nashik,Cabbage,Horticulture,13272.21,202876.35,15.2858
+2026-27,Kharif,Maharashtra,Pune,Cabbage,Horticulture,9976.15,210538.66,21.1042
+2026-27,Kharif,Maharashtra,Nashik,Cauliflower,Horticulture,14536.65,247339.65,17.0149
+2026-27,Kharif,Maharashtra,Pune,Cauliflower,Horticulture,8847.59,141461.46,15.9887
+2026-27,Kharif,Maharashtra,Nashik,Brinjal,Horticulture,10165.25,229314.83,22.5587
+2026-27,Kharif,Maharashtra,Pune,Brinjal,Horticulture,12283.34,255495.93,20.8002
+2026-27,Kharif,Maharashtra,Nashik,Chillies,Spice,8414.95,144371.09,17.1565
+2026-27,Kharif,Maharashtra,Pune,Chillies,Spice,9520.63,162602.84,17.079
+2026-27,Rabi,Maharashtra,Nashik,Potato,Horticulture,11540.8,208566.49,18.0721
+2026-27,Rabi,Maharashtra,Pune,Potato,Horticulture,14720.57,325106.73,22.0852
+2026-27,Rabi,Maharashtra,Nashik,Garlic,Spice,6665.2,34306.45,5.1471
+2026-27,Rabi,Maharashtra,Pune,Garlic,Spice,7922.34,47836.67,6.0382
+2026-27,Kharif,Maharashtra,Nashik,Turmeric,Spice,5096.59,29032.72,5.6965
+2026-27,Kharif,Maharashtra,Pune,Turmeric,Spice,7354.55,44012.57,5.9844
+2026-27,Rabi,Maharashtra,Nashik,Wheat,Cereal,50419.59,142541.22,2.8271
+2026-27,Rabi,Maharashtra,Pune,Wheat,Cereal,51183.43,149215.05,2.9153
+2026-27,Kharif,Maharashtra,Nashik,Rice,Cereal,49285.23,188959.57,3.834
+2026-27,Kharif,Maharashtra,Pune,Rice,Cereal,41608.59,135336.1,3.2526
+2026-27,Kharif,Maharashtra,Nashik,Maize,Cereal,57956.43,229582.81,3.9613
+2026-27,Kharif,Maharashtra,Pune,Maize,Cereal,64043.73,180110.18,2.8123
+2026-27,Kharif,Maharashtra,Nashik,Soyabean,Oilseed,40362.06,59945.73,1.4852
+2026-27,Kharif,Maharashtra,Pune,Soyabean,Oilseed,49641.23,61033.89,1.2295
+2026-27,Kharif,Maharashtra,Nashik,Groundnut,Oilseed,53553.69,76131.93,1.4216
+2026-27,Kharif,Maharashtra,Pune,Groundnut,Oilseed,35415.53,48919.47,1.3813
+2026-27,Rabi,Maharashtra,Nashik,Rapeseed & Mustard,Oilseed,45391.82,56794.25,1.2512
+2026-27,Rabi,Maharashtra,Pune,Rapeseed & Mustard,Oilseed,29459.28,42877.98,1.4555
+2026-27,Rabi,Maharashtra,Nashik,Gram,Pulse,32618.43,43751.1,1.3413
+2026-27,Rabi,Maharashtra,Pune,Gram,Pulse,27284.53,26288.64,0.9635
+2026-27,Kharif,Maharashtra,Nashik,Arhar/Tur,Pulse,22699.75,23037.98,1.0149
+2026-27,Kharif,Maharashtra,Pune,Arhar/Tur,Pulse,40032.95,40965.72,1.0233
+2026-27,Kharif,Maharashtra,Nashik,Moong(Green Gram),Pulse,37310.31,40280.21,1.0796
+2026-27,Kharif,Maharashtra,Pune,Moong(Green Gram),Pulse,37053.77,47351.01,1.2779
+2026-27,Kharif,Uttar Pradesh,Agra,Tomato,Horticulture,7665.52,139928.7,18.2543
+2026-27,Kharif,Uttar Pradesh,Lucknow,Tomato,Horticulture,8762.71,166449.43,18.9952
+2026-27,Kharif,Uttar Pradesh,Agra,Onion,Horticulture,13920.01,282602.65,20.3019
+2026-27,Kharif,Uttar Pradesh,Lucknow,Onion,Horticulture,10694.55,179130.5,16.7497
+2026-27,Kharif,Uttar Pradesh,Agra,Cabbage,Horticulture,15227.09,273889.67,17.987
+2026-27,Kharif,Uttar Pradesh,Lucknow,Cabbage,Horticulture,14898.34,331799.44,22.2709
+2026-27,Kharif,Uttar Pradesh,Agra,Cauliflower,Horticulture,14755.37,318705.66,21.5993
+2026-27,Kharif,Uttar Pradesh,Lucknow,Cauliflower,Horticulture,13656.51,221365.2,16.2095
+2026-27,Kharif,Uttar Pradesh,Agra,Brinjal,Horticulture,9518.46,184225.99,19.3546
+2026-27,Kharif,Uttar Pradesh,Lucknow,Brinjal,Horticulture,12679.51,211051.71,16.6451
+2026-27,Kharif,Uttar Pradesh,Agra,Chillies,Spice,10320.34,219479.57,21.2667
+2026-27,Kharif,Uttar Pradesh,Lucknow,Chillies,Spice,11630.38,253081.72,21.7604
+2026-27,Rabi,Uttar Pradesh,Agra,Potato,Horticulture,11812.21,217590.36,18.4208
+2026-27,Rabi,Uttar Pradesh,Lucknow,Potato,Horticulture,10831.35,228345.44,21.0819
+2026-27,Rabi,Uttar Pradesh,Agra,Garlic,Spice,5919.17,34582.75,5.8425
+2026-27,Rabi,Uttar Pradesh,Lucknow,Garlic,Spice,7544.53,47175.95,6.253
+2026-27,Kharif,Uttar Pradesh,Agra,Turmeric,Spice,7407.85,43201.84,5.8319
+2026-27,Kharif,Uttar Pradesh,Lucknow,Turmeric,Spice,7046.38,31548.05,4.4772
+2026-27,Rabi,Uttar Pradesh,Agra,Wheat,Cereal,54089.77,199861.7,3.695
+2026-27,Rabi,Uttar Pradesh,Lucknow,Wheat,Cereal,75842.51,213117.45,2.81
+2026-27,Kharif,Uttar Pradesh,Agra,Rice,Cereal,51621.33,193863.9,3.7555
+2026-27,Kharif,Uttar Pradesh,Lucknow,Rice,Cereal,63585.91,249256.77,3.92
+2026-27,Kharif,Uttar Pradesh,Agra,Maize,Cereal,39144.75,116541.75,2.9772
+2026-27,Kharif,Uttar Pradesh,Lucknow,Maize,Cereal,41794.5,142673.88,3.4137
+2026-27,Kharif,Uttar Pradesh,Agra,Soyabean,Oilseed,44841.55,76423.45,1.7043
+2026-27,Kharif,Uttar Pradesh,Lucknow,Soyabean,Oilseed,24261.73,33466.63,1.3794
+2026-27,Kharif,Uttar Pradesh,Agra,Groundnut,Oilseed,41829.68,58126.52,1.3896
+2026-27,Kharif,Uttar Pradesh,Lucknow,Groundnut,Oilseed,39901.42,50371.55,1.2624
+2026-27,Rabi,Uttar Pradesh,Agra,Rapeseed & Mustard,Oilseed,31313.18,42814.51,1.3673
+2026-27,Rabi,Uttar Pradesh,Lucknow,Rapeseed & Mustard,Oilseed,25969.22,43098.52,1.6596
+2026-27,Rabi,Uttar Pradesh,Agra,Gram,Pulse,37387.53,46812.93,1.2521
+2026-27,Rabi,Uttar Pradesh,Lucknow,Gram,Pulse,18513.9,23431.19,1.2656
+2026-27,Kharif,Uttar Pradesh,Agra,Arhar/Tur,Pulse,35188.22,41515.06,1.1798
+2026-27,Kharif,Uttar Pradesh,Lucknow,Arhar/Tur,Pulse,29196.98,31074.35,1.0643
+2026-27,Kharif,Uttar Pradesh,Agra,Moong(Green Gram),Pulse,36456.53,42344.26,1.1615
+2026-27,Kharif,Uttar Pradesh,Lucknow,Moong(Green Gram),Pulse,30953.38,33482.27,1.0817
+2026-27,Kharif,Madhya Pradesh,Indore,Tomato,Horticulture,15990.36,345970.63,21.6362
+2026-27,Kharif,Madhya Pradesh,Ujjain,Tomato,Horticulture,13629.54,245564.79,18.0171
+2026-27,Kharif,Madhya Pradesh,Indore,Onion,Horticulture,10535.69,202143.02,19.1865
+2026-27,Kharif,Madhya Pradesh,Ujjain,Onion,Horticulture,13937.18,238364.8,17.1028
+2026-27,Kharif,Madhya Pradesh,Indore,Cabbage,Horticulture,11301.05,226398.46,20.0334
+2026-27,Kharif,Madhya Pradesh,Ujjain,Cabbage,Horticulture,8138.07,129200.0,15.876
+2026-27,Kharif,Madhya Pradesh,Indore,Cauliflower,Horticulture,15182.71,261719.55,17.238
+2026-27,Kharif,Madhya Pradesh,Ujjain,Cauliflower,Horticulture,13441.15,284123.06,21.1383
+2026-27,Kharif,Madhya Pradesh,Indore,Brinjal,Horticulture,14953.83,330189.54,22.0806
+2026-27,Kharif,Madhya Pradesh,Ujjain,Brinjal,Horticulture,8837.45,161671.43,18.2939
+2026-27,Kharif,Madhya Pradesh,Indore,Chillies,Spice,13523.59,211233.07,15.6196
+2026-27,Kharif,Madhya Pradesh,Ujjain,Chillies,Spice,16635.42,257028.88,15.4507
+2026-27,Rabi,Madhya Pradesh,Indore,Potato,Horticulture,7562.17,148246.51,19.6037
+2026-27,Rabi,Madhya Pradesh,Ujjain,Potato,Horticulture,12955.69,230418.24,17.7851
+2026-27,Rabi,Madhya Pradesh,Indore,Garlic,Spice,4390.1,26168.07,5.9607
+2026-27,Rabi,Madhya Pradesh,Ujjain,Garlic,Spice,6372.1,36912.3,5.7928
+2026-27,Kharif,Madhya Pradesh,Indore,Turmeric,Spice,3997.76,24671.78,6.1714
+2026-27,Kharif,Madhya Pradesh,Ujjain,Turmeric,Spice,6798.73,41723.13,6.1369
+2026-27,Rabi,Madhya Pradesh,Indore,Wheat,Cereal,81532.34,319174.65,3.9147
+2026-27,Rabi,Madhya Pradesh,Ujjain,Wheat,Cereal,81525.77,298090.83,3.6564
+2026-27,Kharif,Madhya Pradesh,Indore,Rice,Cereal,64991.04,199704.47,3.0728
+2026-27,Kharif,Madhya Pradesh,Ujjain,Rice,Cereal,54643.17,173781.67,3.1803
+2026-27,Kharif,Madhya Pradesh,Indore,Maize,Cereal,61497.63,181817.74,2.9565
+2026-27,Kharif,Madhya Pradesh,Ujjain,Maize,Cereal,81384.59,307511.67,3.7785
+2026-27,Kharif,Madhya Pradesh,Indore,Soyabean,Oilseed,30710.14,49142.37,1.6002
+2026-27,Kharif,Madhya Pradesh,Ujjain,Soyabean,Oilseed,35069.57,50205.6,1.4316
+2026-27,Kharif,Madhya Pradesh,Indore,Groundnut,Oilseed,35775.22,60123.83,1.6806
+2026-27,Kharif,Madhya Pradesh,Ujjain,Groundnut,Oilseed,37950.24,44652.25,1.1766
+2026-27,Rabi,Madhya Pradesh,Indore,Rapeseed & Mustard,Oilseed,54731.18,74270.21,1.357
+2026-27,Rabi,Madhya Pradesh,Ujjain,Rapeseed & Mustard,Oilseed,31236.34,52745.68,1.6886
+2026-27,Rabi,Madhya Pradesh,Indore,Gram,Pulse,42497.27,47099.72,1.1083
+2026-27,Rabi,Madhya Pradesh,Ujjain,Gram,Pulse,43145.13,47822.06,1.1084
+2026-27,Kharif,Madhya Pradesh,Indore,Arhar/Tur,Pulse,19683.21,24084.38,1.2236
+2026-27,Kharif,Madhya Pradesh,Ujjain,Arhar/Tur,Pulse,25177.19,27951.72,1.1102
+2026-27,Kharif,Madhya Pradesh,Indore,Moong(Green Gram),Pulse,25835.26,33151.81,1.2832
+2026-27,Kharif,Madhya Pradesh,Ujjain,Moong(Green Gram),Pulse,37942.66,42260.53,1.1138
+2026-27,Kharif,Rajasthan,Kota,Tomato,Horticulture,14546.95,273331.37,18.7896
+2026-27,Kharif,Rajasthan,Jaipur,Tomato,Horticulture,14678.59,291672.39,19.8706
+2026-27,Kharif,Rajasthan,Kota,Onion,Horticulture,8196.98,169078.29,20.6269
+2026-27,Kharif,Rajasthan,Jaipur,Onion,Horticulture,14035.47,252162.66,17.9661
+2026-27,Kharif,Rajasthan,Kota,Cabbage,Horticulture,12899.33,257768.6,19.9831
+2026-27,Kharif,Rajasthan,Jaipur,Cabbage,Horticulture,13274.4,263168.96,19.8253
+2026-27,Kharif,Rajasthan,Kota,Cauliflower,Horticulture,12974.18,210268.64,16.2067
+2026-27,Kharif,Rajasthan,Jaipur,Cauliflower,Horticulture,9453.53,183049.65,19.3631
+2026-27,Kharif,Rajasthan,Kota,Brinjal,Horticulture,10107.11,157514.26,15.5845
+2026-27,Kharif,Rajasthan,Jaipur,Brinjal,Horticulture,7351.88,147505.91,20.0637
+2026-27,Kharif,Rajasthan,Kota,Chillies,Spice,14015.08,278549.72,19.875
+2026-27,Kharif,Rajasthan,Jaipur,Chillies,Spice,7395.57,162116.81,21.9208
+2026-27,Rabi,Rajasthan,Kota,Potato,Horticulture,6973.06,154075.34,22.0958
+2026-27,Rabi,Rajasthan,Jaipur,Potato,Horticulture,11620.23,207770.87,17.8801
+2026-27,Rabi,Rajasthan,Kota,Garlic,Spice,5161.49,22464.87,4.3524
+2026-27,Rabi,Rajasthan,Jaipur,Garlic,Spice,5528.83,26018.12,4.7059
+2026-27,Kharif,Rajasthan,Kota,Turmeric,Spice,5391.06,23575.11,4.373
+2026-27,Kharif,Rajasthan,Jaipur,Turmeric,Spice,5516.02,33562.22,6.0845
+2026-27,Rabi,Rajasthan,Kota,Wheat,Cereal,66995.85,254718.22,3.802
+2026-27,Rabi,Rajasthan,Jaipur,Wheat,Cereal,59581.71,172203.06,2.8902
+2026-27,Kharif,Rajasthan,Kota,Rice,Cereal,40503.02,154612.18,3.8173
+2026-27,Kharif,Rajasthan,Jaipur,Rice,Cereal,42982.34,134693.76,3.1337
+2026-27,Kharif,Rajasthan,Kota,Maize,Cereal,75747.38,269206.19,3.554
+2026-27,Kharif,Rajasthan,Jaipur,Maize,Cereal,57881.77,219696.05,3.7956
+2026-27,Kharif,Rajasthan,Kota,Soyabean,Oilseed,44402.13,73818.54,1.6625
+2026-27,Kharif,Rajasthan,Jaipur,Soyabean,Oilseed,48512.21,80079.11,1.6507
+2026-27,Kharif,Rajasthan,Kota,Groundnut,Oilseed,42422.5,72377.03,1.7061
+2026-27,Kharif,Rajasthan,Jaipur,Groundnut,Oilseed,29438.71,38117.24,1.2948
+2026-27,Rabi,Rajasthan,Kota,Rapeseed & Mustard,Oilseed,29900.74,50541.22,1.6903
+2026-27,Rabi,Rajasthan,Jaipur,Rapeseed & Mustard,Oilseed,32519.87,42975.01,1.3215
+2026-27,Rabi,Rajasthan,Kota,Gram,Pulse,17213.83,17336.05,1.0071
+2026-27,Rabi,Rajasthan,Jaipur,Gram,Pulse,31258.9,39136.14,1.252
+2026-27,Kharif,Rajasthan,Kota,Arhar/Tur,Pulse,23806.98,22447.6,0.9429
+2026-27,Kharif,Rajasthan,Jaipur,Arhar/Tur,Pulse,20302.11,24230.57,1.1935
+2026-27,Kharif,Rajasthan,Kota,Moong(Green Gram),Pulse,19330.87,21834.22,1.1295
+2026-27,Kharif,Rajasthan,Jaipur,Moong(Green Gram),Pulse,28668.76,36595.67,1.2765
+2026-27,Kharif,Gujarat,Mehsana,Tomato,Horticulture,11078.8,222978.58,20.1266
+2026-27,Kharif,Gujarat,Rajkot,Tomato,Horticulture,12556.04,195506.33,15.5707
+2026-27,Kharif,Gujarat,Mehsana,Onion,Horticulture,6574.34,117255.98,17.8354
+2026-27,Kharif,Gujarat,Rajkot,Onion,Horticulture,10026.1,170828.7,17.0384
+2026-27,Kharif,Gujarat,Mehsana,Cabbage,Horticulture,7772.89,173641.7,22.3394
+2026-27,Kharif,Gujarat,Rajkot,Cabbage,Horticulture,7791.83,175606.81,22.5373
+2026-27,Kharif,Gujarat,Mehsana,Cauliflower,Horticulture,13145.99,270026.52,20.5406
+2026-27,Kharif,Gujarat,Rajkot,Cauliflower,Horticulture,8896.38,135117.33,15.1879
+2026-27,Kharif,Gujarat,Mehsana,Brinjal,Horticulture,8247.51,179562.31,21.7717
+2026-27,Kharif,Gujarat,Rajkot,Brinjal,Horticulture,12558.58,235654.22,18.7644
+2026-27,Kharif,Gujarat,Mehsana,Chillies,Spice,14246.24,262387.25,18.418
+2026-27,Kharif,Gujarat,Rajkot,Chillies,Spice,13266.4,216940.13,16.3526
+2026-27,Rabi,Gujarat,Mehsana,Potato,Horticulture,10588.24,216375.98,20.4355
+2026-27,Rabi,Gujarat,Rajkot,Potato,Horticulture,12973.74,279722.92,21.5607
+2026-27,Rabi,Gujarat,Mehsana,Garlic,Spice,5447.26,27448.74,5.039
+2026-27,Rabi,Gujarat,Rajkot,Garlic,Spice,4248.29,24422.99,5.7489
+2026-27,Kharif,Gujarat,Mehsana,Turmeric,Spice,3637.27,16538.3,4.5469
+2026-27,Kharif,Gujarat,Rajkot,Turmeric,Spice,6329.26,33852.68,5.3486
+2026-27,Rabi,Gujarat,Mehsana,Wheat,Cereal,51436.06,184300.55,3.5831
+2026-27,Rabi,Gujarat,Rajkot,Wheat,Cereal,62913.44,204003.12,3.2426
+2026-27,Kharif,Gujarat,Mehsana,Rice,Cereal,68294.83,228548.65,3.3465
+2026-27,Kharif,Gujarat,Rajkot,Rice,Cereal,48267.44,197172.49,4.085
+2026-27,Kharif,Gujarat,Mehsana,Maize,Cereal,46793.38,153575.87,3.282
+2026-27,Kharif,Gujarat,Rajkot,Maize,Cereal,58777.4,186465.42,3.1724
+2026-27,Kharif,Gujarat,Mehsana,Soyabean,Oilseed,24580.5,33736.74,1.3725
+2026-27,Kharif,Gujarat,Rajkot,Soyabean,Oilseed,35308.5,47119.19,1.3345
+2026-27,Kharif,Gujarat,Mehsana,Groundnut,Oilseed,43291.58,53456.44,1.2348
+2026-27,Kharif,Gujarat,Rajkot,Groundnut,Oilseed,29273.2,36196.31,1.2365
+2026-27,Rabi,Gujarat,Mehsana,Rapeseed & Mustard,Oilseed,37806.62,62509.47,1.6534
+2026-27,Rabi,Gujarat,Rajkot,Rapeseed & Mustard,Oilseed,38581.4,55345.02,1.4345
+2026-27,Rabi,Gujarat,Mehsana,Gram,Pulse,26212.42,33397.24,1.2741
+2026-27,Rabi,Gujarat,Rajkot,Gram,Pulse,34884.33,40001.86,1.1467
+2026-27,Kharif,Gujarat,Mehsana,Arhar/Tur,Pulse,36527.56,43595.64,1.1935
+2026-27,Kharif,Gujarat,Rajkot,Arhar/Tur,Pulse,22257.03,26643.89,1.1971
+2026-27,Kharif,Gujarat,Mehsana,Moong(Green Gram),Pulse,31744.22,34572.63,1.0891
+2026-27,Kharif,Gujarat,Rajkot,Moong(Green Gram),Pulse,27118.83,26291.71,0.9695
+2026-27,Kharif,Karnataka,Kolar,Tomato,Horticulture,16228.81,335678.33,20.6841
+2026-27,Kharif,Karnataka,Bengaluru Urban,Tomato,Horticulture,14809.78,267984.45,18.0951
+2026-27,Kharif,Karnataka,Kolar,Onion,Horticulture,9606.02,214803.1,22.3613
+2026-27,Kharif,Karnataka,Bengaluru Urban,Onion,Horticulture,15091.35,316141.15,20.9485
+2026-27,Kharif,Karnataka,Kolar,Cabbage,Horticulture,13268.84,214646.04,16.1767
+2026-27,Kharif,Karnataka,Bengaluru Urban,Cabbage,Horticulture,10184.48,168917.75,16.5858
+2026-27,Kharif,Karnataka,Kolar,Cauliflower,Horticulture,15383.03,248088.28,16.1274
+2026-27,Kharif,Karnataka,Bengaluru Urban,Cauliflower,Horticulture,13419.09,279074.13,20.7968
+2026-27,Kharif,Karnataka,Kolar,Brinjal,Horticulture,13275.39,247960.39,18.6782
+2026-27,Kharif,Karnataka,Bengaluru Urban,Brinjal,Horticulture,14227.49,231891.01,16.2988
+2026-27,Kharif,Karnataka,Kolar,Chillies,Spice,14138.42,315792.92,22.3358
+2026-27,Kharif,Karnataka,Bengaluru Urban,Chillies,Spice,9449.23,161897.44,17.1334
+2026-27,Rabi,Karnataka,Kolar,Potato,Horticulture,10605.09,178143.24,16.7979
+2026-27,Rabi,Karnataka,Bengaluru Urban,Potato,Horticulture,16151.44,294392.3,18.227
+2026-27,Rabi,Karnataka,Kolar,Garlic,Spice,4780.39,27920.35,5.8406
+2026-27,Rabi,Karnataka,Bengaluru Urban,Garlic,Spice,3987.28,22032.91,5.5258
+2026-27,Kharif,Karnataka,Kolar,Turmeric,Spice,5631.5,32222.88,5.7219
+2026-27,Kharif,Karnataka,Bengaluru Urban,Turmeric,Spice,4256.64,18549.59,4.3578
+2026-27,Rabi,Karnataka,Kolar,Wheat,Cereal,78643.84,321071.34,4.0826
+2026-27,Rabi,Karnataka,Bengaluru Urban,Wheat,Cereal,60126.38,191532.58,3.1855
+2026-27,Kharif,Karnataka,Kolar,Rice,Cereal,56620.89,178180.28,3.1469
+2026-27,Kharif,Karnataka,Bengaluru Urban,Rice,Cereal,75933.27,236873.84,3.1195
+2026-27,Kharif,Karnataka,Kolar,Maize,Cereal,85249.23,295269.23,3.4636
+2026-27,Kharif,Karnataka,Bengaluru Urban,Maize,Cereal,64829.18,186909.01,2.8831
+2026-27,Kharif,Karnataka,Kolar,Soyabean,Oilseed,52573.68,77598.75,1.476
+2026-27,Kharif,Karnataka,Bengaluru Urban,Soyabean,Oilseed,27759.73,34902.31,1.2573
+2026-27,Kharif,Karnataka,Kolar,Groundnut,Oilseed,28413.53,43577.83,1.5337
+2026-27,Kharif,Karnataka,Bengaluru Urban,Groundnut,Oilseed,40814.28,48491.45,1.1881
+2026-27,Rabi,Karnataka,Kolar,Rapeseed & Mustard,Oilseed,38672.86,63152.78,1.633
+2026-27,Rabi,Karnataka,Bengaluru Urban,Rapeseed & Mustard,Oilseed,25999.77,42387.43,1.6303
+2026-27,Rabi,Karnataka,Kolar,Gram,Pulse,22494.68,27137.58,1.2064
+2026-27,Rabi,Karnataka,Bengaluru Urban,Gram,Pulse,40127.33,37960.45,0.946
+2026-27,Kharif,Karnataka,Kolar,Arhar/Tur,Pulse,22187.66,26061.63,1.1746
+2026-27,Kharif,Karnataka,Bengaluru Urban,Arhar/Tur,Pulse,40771.52,43466.52,1.0661
+2026-27,Kharif,Karnataka,Kolar,Moong(Green Gram),Pulse,34983.96,33899.46,0.969
+2026-27,Kharif,Karnataka,Bengaluru Urban,Moong(Green Gram),Pulse,35284.63,41769.94,1.1838
+2026-27,Kharif,Punjab,Ludhiana,Tomato,Horticulture,9577.03,167296.35,17.4685
+2026-27,Kharif,Punjab,Patiala,Tomato,Horticulture,9614.32,180427.14,18.7665
+2026-27,Kharif,Punjab,Ludhiana,Onion,Horticulture,7961.31,154476.48,19.4034
+2026-27,Kharif,Punjab,Patiala,Onion,Horticulture,14240.52,259382.53,18.2144
+2026-27,Kharif,Punjab,Ludhiana,Cabbage,Horticulture,7810.78,119808.77,15.3389
+2026-27,Kharif,Punjab,Patiala,Cabbage,Horticulture,9021.23,141055.95,15.636
+2026-27,Kharif,Punjab,Ludhiana,Cauliflower,Horticulture,7894.4,145347.75,18.4115
+2026-27,Kharif,Punjab,Patiala,Cauliflower,Horticulture,12552.58,267318.49,21.2959
+2026-27,Kharif,Punjab,Ludhiana,Brinjal,Horticulture,14779.67,310203.1,20.9885
+2026-27,Kharif,Punjab,Patiala,Brinjal,Horticulture,8428.1,130262.19,15.4557
+2026-27,Kharif,Punjab,Ludhiana,Chillies,Spice,13639.2,233183.95,17.0966
+2026-27,Kharif,Punjab,Patiala,Chillies,Spice,11767.76,244743.52,20.7978
+2026-27,Rabi,Punjab,Ludhiana,Potato,Horticulture,8471.3,184005.95,21.7211
+2026-27,Rabi,Punjab,Patiala,Potato,Horticulture,11050.1,177713.23,16.0825
+2026-27,Rabi,Punjab,Ludhiana,Garlic,Spice,4370.38,23410.38,5.3566
+2026-27,Rabi,Punjab,Patiala,Garlic,Spice,4909.48,24587.66,5.0082
+2026-27,Kharif,Punjab,Ludhiana,Turmeric,Spice,4344.71,23412.34,5.3887
+2026-27,Kharif,Punjab,Patiala,Turmeric,Spice,3841.36,17985.63,4.6821
+2026-27,Rabi,Punjab,Ludhiana,Wheat,Cereal,71274.74,278299.35,3.9046
+2026-27,Rabi,Punjab,Patiala,Wheat,Cereal,77661.5,280808.45,3.6158
+2026-27,Kharif,Punjab,Ludhiana,Rice,Cereal,67281.97,191531.58,2.8467
+2026-27,Kharif,Punjab,Patiala,Rice,Cereal,45722.67,179210.01,3.9195
+2026-27,Kharif,Punjab,Ludhiana,Maize,Cereal,68158.53,276914.48,4.0628
+2026-27,Kharif,Punjab,Patiala,Maize,Cereal,43377.64,125595.62,2.8954
+2026-27,Kharif,Punjab,Ludhiana,Soyabean,Oilseed,46084.72,70196.25,1.5232
+2026-27,Kharif,Punjab,Patiala,Soyabean,Oilseed,40665.39,54825.08,1.3482
+2026-27,Kharif,Punjab,Ludhiana,Groundnut,Oilseed,46526.09,66871.95,1.4373
+2026-27,Kharif,Punjab,Patiala,Groundnut,Oilseed,22702.63,35904.21,1.5815
+2026-27,Rabi,Punjab,Ludhiana,Rapeseed & Mustard,Oilseed,35227.06,56535.91,1.6049
+2026-27,Rabi,Punjab,Patiala,Rapeseed & Mustard,Oilseed,30507.23,47423.49,1.5545
+2026-27,Rabi,Punjab,Ludhiana,Gram,Pulse,28029.98,28341.11,1.0111
+2026-27,Rabi,Punjab,Patiala,Gram,Pulse,22154.54,22103.58,0.9977
+2026-27,Kharif,Punjab,Ludhiana,Arhar/Tur,Pulse,36053.34,48318.69,1.3402
+2026-27,Kharif,Punjab,Patiala,Arhar/Tur,Pulse,19592.74,21242.45,1.0842
+2026-27,Kharif,Punjab,Ludhiana,Moong(Green Gram),Pulse,18236.28,19441.7,1.0661
+2026-27,Kharif,Punjab,Patiala,Moong(Green Gram),Pulse,34424.91,40852.04,1.1867
+2026-27,Kharif,Haryana,Karnal,Tomato,Horticulture,10119.29,224577.4,22.193
+2026-27,Kharif,Haryana,Hisar,Tomato,Horticulture,13035.71,217114.96,16.6554
+2026-27,Kharif,Haryana,Karnal,Onion,Horticulture,14102.06,241620.47,17.1337
+2026-27,Kharif,Haryana,Hisar,Onion,Horticulture,10107.7,203788.42,20.1617
+2026-27,Kharif,Haryana,Karnal,Cabbage,Horticulture,7661.25,136258.4,17.7854
+2026-27,Kharif,Haryana,Hisar,Cabbage,Horticulture,15186.26,310850.59,20.4692
+2026-27,Kharif,Haryana,Karnal,Cauliflower,Horticulture,12839.46,245879.51,19.1503
+2026-27,Kharif,Haryana,Hisar,Cauliflower,Horticulture,7228.54,139053.98,19.2368
+2026-27,Kharif,Haryana,Karnal,Brinjal,Horticulture,10657.49,239528.15,22.4751
+2026-27,Kharif,Haryana,Hisar,Brinjal,Horticulture,10172.21,224770.24,22.0965
+2026-27,Kharif,Haryana,Karnal,Chillies,Spice,11735.68,252646.89,21.5281
+2026-27,Kharif,Haryana,Hisar,Chillies,Spice,12872.73,249627.98,19.392
+2026-27,Rabi,Haryana,Karnal,Potato,Horticulture,10272.47,215709.54,20.9988
+2026-27,Rabi,Haryana,Hisar,Potato,Horticulture,9254.09,165207.72,17.8524
+2026-27,Rabi,Haryana,Karnal,Garlic,Spice,4092.09,21777.69,5.3219
+2026-27,Rabi,Haryana,Hisar,Garlic,Spice,4916.17,23474.22,4.7749
+2026-27,Kharif,Haryana,Karnal,Turmeric,Spice,5417.15,25959.52,4.7921
+2026-27,Kharif,Haryana,Hisar,Turmeric,Spice,5710.49,33997.97,5.9536
+2026-27,Rabi,Haryana,Karnal,Wheat,Cereal,45893.51,181146.27,3.9471
+2026-27,Rabi,Haryana,Hisar,Wheat,Cereal,42160.55,156478.88,3.7115
+2026-27,Kharif,Haryana,Karnal,Rice,Cereal,60748.34,191709.61,3.1558
+2026-27,Kharif,Haryana,Hisar,Rice,Cereal,57531.07,174313.39,3.0299
+2026-27,Kharif,Haryana,Karnal,Maize,Cereal,70113.42,248467.94,3.5438
+2026-27,Kharif,Haryana,Hisar,Maize,Cereal,78947.48,235421.39,2.982
+2026-27,Kharif,Haryana,Karnal,Soyabean,Oilseed,37481.38,50806.01,1.3555
+2026-27,Kharif,Haryana,Hisar,Soyabean,Oilseed,47438.38,61380.52,1.2939
+2026-27,Kharif,Haryana,Karnal,Groundnut,Oilseed,40051.55,51213.92,1.2787
+2026-27,Kharif,Haryana,Hisar,Groundnut,Oilseed,47332.11,78784.3,1.6645
+2026-27,Rabi,Haryana,Karnal,Rapeseed & Mustard,Oilseed,33284.35,55831.17,1.6774
+2026-27,Rabi,Haryana,Hisar,Rapeseed & Mustard,Oilseed,37088.13,49130.65,1.3247
+2026-27,Rabi,Haryana,Karnal,Gram,Pulse,39244.31,45111.33,1.1495
+2026-27,Rabi,Haryana,Hisar,Gram,Pulse,35936.98,35121.21,0.9773
+2026-27,Kharif,Haryana,Karnal,Arhar/Tur,Pulse,33242.47,43268.4,1.3016
+2026-27,Kharif,Haryana,Hisar,Arhar/Tur,Pulse,20220.1,20264.58,1.0022
+2026-27,Kharif,Haryana,Karnal,Moong(Green Gram),Pulse,33201.56,35641.87,1.0735
+2026-27,Kharif,Haryana,Hisar,Moong(Green Gram),Pulse,23543.11,21878.61,0.9293
+2026-27,Kharif,West Bengal,Kolkata,Tomato,Horticulture,4528.24,80965.84,17.8802
+2026-27,Kharif,West Bengal,Darjeeling,Tomato,Horticulture,4664.75,93825.38,20.1137
+2026-27,Kharif,West Bengal,Kolkata,Onion,Horticulture,4380.3,71027.44,16.2152
+2026-27,Kharif,West Bengal,Darjeeling,Onion,Horticulture,4417.14,73829.4,16.7143
+2026-27,Kharif,West Bengal,Kolkata,Cabbage,Horticulture,3662.03,56272.58,15.3665
+2026-27,Kharif,West Bengal,Darjeeling,Cabbage,Horticulture,3877.63,86647.19,22.3454
+2026-27,Kharif,West Bengal,Kolkata,Cauliflower,Horticulture,4747.91,103091.37,21.713
+2026-27,Kharif,West Bengal,Darjeeling,Cauliflower,Horticulture,3205.95,52874.77,16.4927
+2026-27,Kharif,West Bengal,Kolkata,Brinjal,Horticulture,4583.68,82506.24,18.0
+2026-27,Kharif,West Bengal,Darjeeling,Brinjal,Horticulture,2553.16,57464.99,22.5074
+2026-27,Kharif,West Bengal,Kolkata,Chillies,Spice,2853.22,50056.04,17.5437
+2026-27,Kharif,West Bengal,Darjeeling,Chillies,Spice,2782.99,50092.15,17.9994
+2026-27,Rabi,West Bengal,Kolkata,Potato,Horticulture,3743.91,76846.37,20.5257
+2026-27,Rabi,West Bengal,Darjeeling,Potato,Horticulture,3697.8,72015.02,19.4751
+2026-27,Rabi,West Bengal,Kolkata,Garlic,Spice,2005.42,9563.25,4.7687
+2026-27,Rabi,West Bengal,Darjeeling,Garlic,Spice,2073.21,12843.95,6.1952
+2026-27,Kharif,West Bengal,Kolkata,Turmeric,Spice,1349.7,8090.24,5.9941
+2026-27,Kharif,West Bengal,Darjeeling,Turmeric,Spice,2297.33,13890.12,6.0462
+2026-27,Rabi,West Bengal,Kolkata,Wheat,Cereal,15679.64,49511.6,3.1577
+2026-27,Rabi,West Bengal,Darjeeling,Wheat,Cereal,22183.38,67433.04,3.0398
+2026-27,Kharif,West Bengal,Kolkata,Rice,Cereal,16932.6,66502.79,3.9275
+2026-27,Kharif,West Bengal,Darjeeling,Rice,Cereal,16937.6,51209.14,3.0234
+2026-27,Kharif,West Bengal,Kolkata,Maize,Cereal,21425.53,75452.15,3.5216
+2026-27,Kharif,West Bengal,Darjeeling,Maize,Cereal,22159.79,91203.05,4.1157
+2026-27,Kharif,West Bengal,Kolkata,Soyabean,Oilseed,8322.53,10795.99,1.2972
+2026-27,Kharif,West Bengal,Darjeeling,Soyabean,Oilseed,7536.08,12420.21,1.6481
+2026-27,Kharif,West Bengal,Kolkata,Groundnut,Oilseed,15610.15,21307.85,1.365
+2026-27,Kharif,West Bengal,Darjeeling,Groundnut,Oilseed,9100.81,14081.68,1.5473
+2026-27,Rabi,West Bengal,Kolkata,Rapeseed & Mustard,Oilseed,8141.33,10866.23,1.3347
+2026-27,Rabi,West Bengal,Darjeeling,Rapeseed & Mustard,Oilseed,8887.82,14682.68,1.652
+2026-27,Rabi,West Bengal,Kolkata,Gram,Pulse,8817.18,11757.71,1.3335
+2026-27,Rabi,West Bengal,Darjeeling,Gram,Pulse,8681.04,7963.99,0.9174
+2026-27,Kharif,West Bengal,Kolkata,Arhar/Tur,Pulse,6557.52,6171.28,0.9411
+2026-27,Kharif,West Bengal,Darjeeling,Arhar/Tur,Pulse,9623.73,9617.96,0.9994
+2026-27,Kharif,West Bengal,Kolkata,Moong(Green Gram),Pulse,8117.22,10153.83,1.2509
+2026-27,Kharif,West Bengal,Darjeeling,Moong(Green Gram),Pulse,12324.21,16037.49,1.3013
+2026-27,Kharif,Bihar,Patna,Tomato,Horticulture,8230.04,146284.85,17.7745
+2026-27,Kharif,Bihar,Muzaffarpur,Tomato,Horticulture,9156.5,158991.63,17.3638
+2026-27,Kharif,Bihar,Patna,Onion,Horticulture,8503.46,179559.91,21.1161
+2026-27,Kharif,Bihar,Muzaffarpur,Onion,Horticulture,5090.79,87461.3,17.1803
+2026-27,Kharif,Bihar,Patna,Cabbage,Horticulture,5854.49,110147.55,18.8142
+2026-27,Kharif,Bihar,Muzaffarpur,Cabbage,Horticulture,6388.49,131123.12,20.5249
+2026-27,Kharif,Bihar,Patna,Cauliflower,Horticulture,9234.75,152949.62,16.5624
+2026-27,Kharif,Bihar,Muzaffarpur,Cauliflower,Horticulture,8163.41,176305.98,21.5971
+2026-27,Kharif,Bihar,Patna,Brinjal,Horticulture,6475.17,120407.73,18.5953
+2026-27,Kharif,Bihar,Muzaffarpur,Brinjal,Horticulture,9532.74,167846.77,17.6074
+2026-27,Kharif,Bihar,Patna,Chillies,Spice,7818.46,147389.7,18.8515
+2026-27,Kharif,Bihar,Muzaffarpur,Chillies,Spice,9285.38,183973.09,19.8132
+2026-27,Rabi,Bihar,Patna,Potato,Horticulture,8782.64,150580.12,17.1452
+2026-27,Rabi,Bihar,Muzaffarpur,Potato,Horticulture,5866.3,129639.95,22.0991
+2026-27,Rabi,Bihar,Patna,Garlic,Spice,3687.27,20446.28,5.5451
+2026-27,Rabi,Bihar,Muzaffarpur,Garlic,Spice,2861.02,13084.87,4.5735
+2026-27,Kharif,Bihar,Patna,Turmeric,Spice,4290.69,22024.11,5.133
+2026-27,Kharif,Bihar,Muzaffarpur,Turmeric,Spice,2644.7,14765.1,5.5829
+2026-27,Rabi,Bihar,Patna,Wheat,Cereal,52917.79,210305.88,3.9742
+2026-27,Rabi,Bihar,Muzaffarpur,Wheat,Cereal,32823.31,105556.48,3.2159
+2026-27,Kharif,Bihar,Patna,Rice,Cereal,50783.14,175735.06,3.4605
+2026-27,Kharif,Bihar,Muzaffarpur,Rice,Cereal,28929.31,114074.06,3.9432
+2026-27,Kharif,Bihar,Patna,Maize,Cereal,53819.61,185144.84,3.4401
+2026-27,Kharif,Bihar,Muzaffarpur,Maize,Cereal,54805.15,177755.02,3.2434
+2026-27,Kharif,Bihar,Patna,Soyabean,Oilseed,30607.35,47778.07,1.561
+2026-27,Kharif,Bihar,Muzaffarpur,Soyabean,Oilseed,27232.27,39987.87,1.4684
+2026-27,Kharif,Bihar,Patna,Groundnut,Oilseed,24360.18,30321.12,1.2447
+2026-27,Kharif,Bihar,Muzaffarpur,Groundnut,Oilseed,27672.33,40155.32,1.4511
+2026-27,Rabi,Bihar,Patna,Rapeseed & Mustard,Oilseed,19799.97,29343.56,1.482
+2026-27,Rabi,Bihar,Muzaffarpur,Rapeseed & Mustard,Oilseed,23634.37,34189.48,1.4466
+2026-27,Rabi,Bihar,Patna,Gram,Pulse,16753.84,19645.55,1.1726
+2026-27,Rabi,Bihar,Muzaffarpur,Gram,Pulse,16570.2,15171.68,0.9156
+2026-27,Kharif,Bihar,Patna,Arhar/Tur,Pulse,16899.24,18790.26,1.1119
+2026-27,Kharif,Bihar,Muzaffarpur,Arhar/Tur,Pulse,24444.8,22220.32,0.909
+2026-27,Kharif,Bihar,Patna,Moong(Green Gram),Pulse,17221.24,19181.02,1.1138
+2026-27,Kharif,Bihar,Muzaffarpur,Moong(Green Gram),Pulse,13022.42,16477.27,1.2653
+2026-27,Kharif,Andhra Pradesh,Guntur,Tomato,Horticulture,7395.62,125894.9,17.0229
+2026-27,Kharif,Andhra Pradesh,Kurnool,Tomato,Horticulture,6544.76,125817.78,19.2242
+2026-27,Kharif,Andhra Pradesh,Guntur,Onion,Horticulture,8128.7,142744.04,17.5605
+2026-27,Kharif,Andhra Pradesh,Kurnool,Onion,Horticulture,12232.83,223028.96,18.232
+2026-27,Kharif,Andhra Pradesh,Guntur,Cabbage,Horticulture,9577.35,180058.01,18.8004
+2026-27,Kharif,Andhra Pradesh,Kurnool,Cabbage,Horticulture,12956.95,228916.91,17.6675
+2026-27,Kharif,Andhra Pradesh,Guntur,Cauliflower,Horticulture,10711.31,226689.88,21.1636
+2026-27,Kharif,Andhra Pradesh,Kurnool,Cauliflower,Horticulture,7682.56,169246.8,22.03
+2026-27,Kharif,Andhra Pradesh,Guntur,Brinjal,Horticulture,8611.01,192382.02,22.3414
+2026-27,Kharif,Andhra Pradesh,Kurnool,Brinjal,Horticulture,9331.48,174274.72,18.676
+2026-27,Kharif,Andhra Pradesh,Guntur,Chillies,Spice,7076.13,134206.59,18.9661
+2026-27,Kharif,Andhra Pradesh,Kurnool,Chillies,Spice,8674.43,190843.53,22.0007
+2026-27,Rabi,Andhra Pradesh,Guntur,Potato,Horticulture,10753.46,178794.55,16.6267
+2026-27,Rabi,Andhra Pradesh,Kurnool,Potato,Horticulture,8049.78,170481.46,21.1784
+2026-27,Rabi,Andhra Pradesh,Guntur,Garlic,Spice,6219.0,33869.92,5.4462
+2026-27,Rabi,Andhra Pradesh,Kurnool,Garlic,Spice,5680.89,32051.01,5.6419
+2026-27,Kharif,Andhra Pradesh,Guntur,Turmeric,Spice,4122.55,21647.51,5.251
+2026-27,Kharif,Andhra Pradesh,Kurnool,Turmeric,Spice,5653.87,35666.31,6.3083
+2026-27,Rabi,Andhra Pradesh,Guntur,Wheat,Cereal,52775.67,207434.77,3.9305
+2026-27,Rabi,Andhra Pradesh,Kurnool,Wheat,Cereal,54057.13,184351.03,3.4103
+2026-27,Kharif,Andhra Pradesh,Guntur,Rice,Cereal,47113.75,162547.15,3.4501
+2026-27,Kharif,Andhra Pradesh,Kurnool,Rice,Cereal,33424.27,123793.47,3.7037
+2026-27,Kharif,Andhra Pradesh,Guntur,Maize,Cereal,63219.84,253435.69,4.0088
+2026-27,Kharif,Andhra Pradesh,Kurnool,Maize,Cereal,60363.39,245594.49,4.0686
+2026-27,Kharif,Andhra Pradesh,Guntur,Soyabean,Oilseed,44052.86,67594.71,1.5344
+2026-27,Kharif,Andhra Pradesh,Kurnool,Soyabean,Oilseed,39403.35,54309.64,1.3783
+2026-27,Kharif,Andhra Pradesh,Guntur,Groundnut,Oilseed,42300.71,50359.0,1.1905
+2026-27,Kharif,Andhra Pradesh,Kurnool,Groundnut,Oilseed,41208.84,67347.61,1.6343
+2026-27,Rabi,Andhra Pradesh,Guntur,Rapeseed & Mustard,Oilseed,34913.76,48575.51,1.3913
+2026-27,Rabi,Andhra Pradesh,Kurnool,Rapeseed & Mustard,Oilseed,38751.24,66070.86,1.705
+2026-27,Rabi,Andhra Pradesh,Guntur,Gram,Pulse,28094.82,33722.21,1.2003
+2026-27,Rabi,Andhra Pradesh,Kurnool,Gram,Pulse,32862.88,31512.22,0.9589
+2026-27,Kharif,Andhra Pradesh,Guntur,Arhar/Tur,Pulse,21567.88,22562.16,1.0461
+2026-27,Kharif,Andhra Pradesh,Kurnool,Arhar/Tur,Pulse,18335.54,23370.48,1.2746
+2026-27,Kharif,Andhra Pradesh,Guntur,Moong(Green Gram),Pulse,27631.08,26694.39,0.9661
+2026-27,Kharif,Andhra Pradesh,Kurnool,Moong(Green Gram),Pulse,33765.15,32478.7,0.9619
+2026-27,Kharif,Tamil Nadu,Chennai,Tomato,Horticulture,4451.89,87627.0,19.6831
+2026-27,Kharif,Tamil Nadu,Coimbatore,Tomato,Horticulture,4624.72,78068.97,16.8808
+2026-27,Kharif,Tamil Nadu,Chennai,Onion,Horticulture,3712.3,66361.82,17.8762
+2026-27,Kharif,Tamil Nadu,Coimbatore,Onion,Horticulture,2695.71,47039.33,17.4497
+2026-27,Kharif,Tamil Nadu,Chennai,Cabbage,Horticulture,5376.32,88516.81,16.4642
+2026-27,Kharif,Tamil Nadu,Coimbatore,Cabbage,Horticulture,3676.03,80749.51,21.9665
+2026-27,Kharif,Tamil Nadu,Chennai,Cauliflower,Horticulture,5013.65,105468.65,21.0363
+2026-27,Kharif,Tamil Nadu,Coimbatore,Cauliflower,Horticulture,5379.47,94600.67,17.5855
+2026-27,Kharif,Tamil Nadu,Chennai,Brinjal,Horticulture,4925.8,79323.11,16.1036
+2026-27,Kharif,Tamil Nadu,Coimbatore,Brinjal,Horticulture,3316.23,53192.33,16.04
+2026-27,Kharif,Tamil Nadu,Chennai,Chillies,Spice,2672.47,42843.97,16.0316
+2026-27,Kharif,Tamil Nadu,Coimbatore,Chillies,Spice,2801.78,56293.08,20.0919
+2026-27,Rabi,Tamil Nadu,Chennai,Potato,Horticulture,4965.08,76317.25,15.3708
+2026-27,Rabi,Tamil Nadu,Coimbatore,Potato,Horticulture,2485.55,43127.52,17.3513
+2026-27,Rabi,Tamil Nadu,Chennai,Garlic,Spice,2200.71,13410.25,6.0936
+2026-27,Rabi,Tamil Nadu,Coimbatore,Garlic,Spice,1771.72,9569.77,5.4014
+2026-27,Kharif,Tamil Nadu,Chennai,Turmeric,Spice,1872.4,10591.98,5.6569
+2026-27,Kharif,Tamil Nadu,Coimbatore,Turmeric,Spice,1829.71,9083.05,4.9642
+2026-27,Rabi,Tamil Nadu,Chennai,Wheat,Cereal,16944.63,62469.77,3.6867
+2026-27,Rabi,Tamil Nadu,Coimbatore,Wheat,Cereal,27922.05,84006.28,3.0086
+2026-27,Kharif,Tamil Nadu,Chennai,Rice,Cereal,25956.15,105244.4,4.0547
+2026-27,Kharif,Tamil Nadu,Coimbatore,Rice,Cereal,15419.2,56554.54,3.6678
+2026-27,Kharif,Tamil Nadu,Chennai,Maize,Cereal,26068.97,88670.99,3.4014
+2026-27,Kharif,Tamil Nadu,Coimbatore,Maize,Cereal,25158.02,73977.16,2.9405
+2026-27,Kharif,Tamil Nadu,Chennai,Soyabean,Oilseed,14668.26,21694.36,1.479
+2026-27,Kharif,Tamil Nadu,Coimbatore,Soyabean,Oilseed,9474.11,14292.64,1.5086
+2026-27,Kharif,Tamil Nadu,Chennai,Groundnut,Oilseed,14926.29,23552.19,1.5779
+2026-27,Kharif,Tamil Nadu,Coimbatore,Groundnut,Oilseed,13988.21,19614.27,1.4022
+2026-27,Rabi,Tamil Nadu,Chennai,Rapeseed & Mustard,Oilseed,16149.85,18583.63,1.1507
+2026-27,Rabi,Tamil Nadu,Coimbatore,Rapeseed & Mustard,Oilseed,9698.27,13532.0,1.3953
+2026-27,Rabi,Tamil Nadu,Chennai,Gram,Pulse,9472.77,10240.06,1.081
+2026-27,Rabi,Tamil Nadu,Coimbatore,Gram,Pulse,14011.12,14434.26,1.0302
+2026-27,Kharif,Tamil Nadu,Chennai,Arhar/Tur,Pulse,7102.61,9453.57,1.331
+2026-27,Kharif,Tamil Nadu,Coimbatore,Arhar/Tur,Pulse,8992.97,8551.42,0.9509
+2026-27,Kharif,Tamil Nadu,Chennai,Moong(Green Gram),Pulse,10469.34,11617.83,1.1097
+2026-27,Kharif,Tamil Nadu,Coimbatore,Moong(Green Gram),Pulse,9147.45,10464.68,1.144

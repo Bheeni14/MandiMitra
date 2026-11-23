@@ -1,0 +1,1 @@
+"""MandiMitra automated test suite."""

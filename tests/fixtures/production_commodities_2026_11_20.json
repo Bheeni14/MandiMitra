@@ -1,0 +1,2480 @@
+{
+ "source": "Local Agmarknet raw files 2026-11-19, cross-checked against the read-only production audit of 2026-11-20",
+ "commodities": [
+  {
+   "commodity_name": "Ajwan",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Ajwan"
+   ],
+   "approved_category": "spice",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Almond(Badam)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Almond(Badam)"
+   ],
+   "approved_category": "dry_fruit_nut",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Amaranthus",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 58,
+   "raw_source_names": [
+    "Amaranthus"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Ambady/Mesta/Patson",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Ambady/Mesta/Patson"
+   ],
+   "approved_category": "cash_crop",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Amla(Nelli Kai)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 26,
+   "raw_source_names": [
+    "Amla(Nelli Kai)"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Amranthas Red",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Amranthas Red"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Apple",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 44,
+   "raw_source_names": [
+    "Apple"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Arecanut(Betelnut/Supari)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 4,
+   "raw_source_names": [
+    "Arecanut(Betelnut/Supari)"
+   ],
+   "approved_category": "cash_crop",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Ashgourd",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 57,
+   "raw_source_names": [
+    "Ashgourd"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Astera",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Astera"
+   ],
+   "approved_category": "flower",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Avocado",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Avocado"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Baby Corn",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 3,
+   "raw_source_names": [
+    "Baby Corn"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Bajra(Pearl Millet/Cumbu)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 36,
+   "raw_source_names": [
+    "Bajra(Pearl Millet/Cumbu)"
+   ],
+   "approved_category": "cereal",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Banana",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 117,
+   "raw_source_names": [
+    "Banana"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Banana - Green",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 71,
+   "raw_source_names": [
+    "Banana - Green"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Barley(Jau)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 4,
+   "raw_source_names": [
+    "Barley(Jau)"
+   ],
+   "approved_category": "cereal",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Basil",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 2,
+   "raw_source_names": [
+    "basil"
+   ],
+   "approved_category": "spice",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Bay Leaf(Tejpatta)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Bay leaf(Tejpatta)"
+   ],
+   "approved_category": "spice",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Beans",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 47,
+   "raw_source_names": [
+    "Beans"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Beetroot",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 75,
+   "raw_source_names": [
+    "Beetroot"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Bengal Gram Dal(Chana Dal)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Bengal Gram Dal(Chana Dal)"
+   ],
+   "approved_category": "pulse",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Ber(Zizyphus/Borehannu)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Ber(Zizyphus/Borehannu)"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Betal Leaves",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 7,
+   "raw_source_names": [
+    "Betal Leaves"
+   ],
+   "approved_category": "other",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Bhindi(Ladies Finger)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 110,
+   "raw_source_names": [
+    "Bhindi(Ladies Finger)"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Bitter Gourd",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 101,
+   "raw_source_names": [
+    "Bitter gourd"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Black Gram Dal(Urd Dal)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Black Gram Dal(Urd Dal)"
+   ],
+   "approved_category": "pulse",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Black Gram(Urd Beans)(Whole)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 45,
+   "raw_source_names": [
+    "Black Gram(Urd Beans)(Whole)"
+   ],
+   "approved_category": "pulse",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Black Pepper",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 2,
+   "raw_source_names": [
+    "Black pepper"
+   ],
+   "approved_category": "spice",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Bop",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "BOP"
+   ],
+   "approved_category": "unclassified",
+   "approved_storable": false,
+   "review_status": "review_required",
+   "review_note": "Single Delhi record, variety 'Other', modal Rs 50/q; commodity identity unknown."
+  },
+  {
+   "commodity_name": "Bottle Gourd",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 96,
+   "raw_source_names": [
+    "Bottle gourd"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Brinjal",
+   "pre_migration_category": "vegetable",
+   "pre_migration_storable": false,
+   "price_rows": 172,
+   "raw_source_names": [
+    "Brinjal"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Broken Rice",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Broken Rice"
+   ],
+   "approved_category": "cereal",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Broomstick(Flower Broom)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Broomstick(Flower Broom)"
+   ],
+   "approved_category": "other",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Buttery",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 8,
+   "raw_source_names": [
+    "buttery"
+   ],
+   "approved_category": "unclassified",
+   "approved_storable": false,
+   "review_status": "review_required",
+   "review_note": "Madhya Pradesh only, variety 'Buttery', Rs 3,230-4,280/q; commodity identity unknown."
+  },
+  {
+   "commodity_name": "Cabbage",
+   "pre_migration_category": "vegetable",
+   "pre_migration_storable": false,
+   "price_rows": 108,
+   "raw_source_names": [
+    "Cabbage"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Capsicum",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 44,
+   "raw_source_names": [
+    "Capsicum"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Cardamom",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Cardamom"
+   ],
+   "approved_category": "spice",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Carrot",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 100,
+   "raw_source_names": [
+    "Carrot"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Castor Seed",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 12,
+   "raw_source_names": [
+    "Castor Seed"
+   ],
+   "approved_category": "oilseed",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Cauliflower",
+   "pre_migration_category": "vegetable",
+   "pre_migration_storable": false,
+   "price_rows": 113,
+   "raw_source_names": [
+    "Cauliflower"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Chiaseeds",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 2,
+   "raw_source_names": [
+    "Chiaseeds"
+   ],
+   "approved_category": "oilseed",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Chickpea",
+   "pre_migration_category": "pulse",
+   "pre_migration_storable": true,
+   "price_rows": 70,
+   "raw_source_names": [
+    "Bengal Gram(Gram)(Whole)"
+   ],
+   "approved_category": "pulse",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Chikoos(Sapota)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 36,
+   "raw_source_names": [
+    "Chikoos(Sapota)"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Chili Red",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 8,
+   "raw_source_names": [
+    "Chili Red"
+   ],
+   "approved_category": "spice",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Chilly Capsicum",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Chilly Capsicum"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Chow Chow",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 42,
+   "raw_source_names": [
+    "Chow Chow"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Cinamon(Dalchini)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Cinamon(Dalchini)"
+   ],
+   "approved_category": "spice",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Cluster Beans",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 65,
+   "raw_source_names": [
+    "Cluster beans"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Coconut",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 68,
+   "raw_source_names": [
+    "Coconut"
+   ],
+   "approved_category": "cash_crop",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Coconut Oil",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 2,
+   "raw_source_names": [
+    "Coconut Oil"
+   ],
+   "approved_category": "oilseed",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Coffee",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Coffee"
+   ],
+   "approved_category": "cash_crop",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Colacasia",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 30,
+   "raw_source_names": [
+    "Colacasia"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Copra",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Copra"
+   ],
+   "approved_category": "oilseed",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Coriander(Leaves)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 53,
+   "raw_source_names": [
+    "Coriander(Leaves)"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Corriander Seed",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 6,
+   "raw_source_names": [
+    "Corriander seed"
+   ],
+   "approved_category": "spice",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Cotton",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 40,
+   "raw_source_names": [
+    "Cotton"
+   ],
+   "approved_category": "cash_crop",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Cowpea(Lobia/Karamani)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Cowpea(Lobia/Karamani)"
+   ],
+   "approved_category": "pulse",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Cowpea(Veg)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 34,
+   "raw_source_names": [
+    "Cowpea(Veg)"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Cucumbar(Kheera)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 81,
+   "raw_source_names": [
+    "Cucumbar(Kheera)"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Cummin Seed(Jeera)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 6,
+   "raw_source_names": [
+    "Cummin Seed(Jeera)"
+   ],
+   "approved_category": "spice",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Custard Apple(Sharifa)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 11,
+   "raw_source_names": [
+    "Custard Apple(Sharifa)"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Dates",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Dates"
+   ],
+   "approved_category": "dry_fruit_nut",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Dried Mango",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "dried mango"
+   ],
+   "approved_category": "dry_fruit_nut",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Drumstick",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 62,
+   "raw_source_names": [
+    "Drumstick"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Dry Chillies",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Dry Chillies"
+   ],
+   "approved_category": "spice",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Elephant Yam(Suran)/Amorphophallus",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 46,
+   "raw_source_names": [
+    "Elephant Yam(Suran)/Amorphophallus"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Field Bean(Anumulu)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Field Bean(Anumulu)"
+   ],
+   "approved_category": "pulse",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Field Pea",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 4,
+   "raw_source_names": [
+    "Field Pea"
+   ],
+   "approved_category": "pulse",
+   "approved_storable": true,
+   "review_status": "provisional",
+   "review_note": "Provisionally a storable dry pulse; some source records (modal up to Rs 9,300/q) may be fresh green peas."
+  },
+  {
+   "commodity_name": "Firewood",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 2,
+   "raw_source_names": [
+    "Firewood"
+   ],
+   "approved_category": "other",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Fish",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 8,
+   "raw_source_names": [
+    "Fish"
+   ],
+   "approved_category": "other",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "French Beans(Frasbean)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 13,
+   "raw_source_names": [
+    "French Beans(Frasbean)"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Galgal(Lemon)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Galgal(Lemon)"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Garlic",
+   "pre_migration_category": "spice",
+   "pre_migration_storable": true,
+   "price_rows": 50,
+   "raw_source_names": [
+    "Garlic"
+   ],
+   "approved_category": "spice",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Ginger(Dry)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 3,
+   "raw_source_names": [
+    "Ginger(Dry)"
+   ],
+   "approved_category": "spice",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Ginger(Green)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 74,
+   "raw_source_names": [
+    "Ginger(Green)"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Grapes",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 15,
+   "raw_source_names": [
+    "Grapes"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Green Avare(W)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 48,
+   "raw_source_names": [
+    "Green Avare(W)"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Green Chilli",
+   "pre_migration_category": "vegetable",
+   "pre_migration_storable": false,
+   "price_rows": 110,
+   "raw_source_names": [
+    "Green Chilli"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Green Gram (Moong)",
+   "pre_migration_category": "pulse",
+   "pre_migration_storable": true,
+   "price_rows": 27,
+   "raw_source_names": [
+    "Green Gram(Moong)(Whole)"
+   ],
+   "approved_category": "pulse",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Green Gram Dal(Moong Dal)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 4,
+   "raw_source_names": [
+    "Green Gram Dal(Moong Dal)"
+   ],
+   "approved_category": "pulse",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Green Peas",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 20,
+   "raw_source_names": [
+    "Green Peas"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Ground Nut Seed",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 3,
+   "raw_source_names": [
+    "Ground Nut Seed"
+   ],
+   "approved_category": "oilseed",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Groundnut",
+   "pre_migration_category": "oilseed",
+   "pre_migration_storable": true,
+   "price_rows": 68,
+   "raw_source_names": [
+    "Groundnut",
+    "Groundnut(Split)"
+   ],
+   "approved_category": "oilseed",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Groundnut Pods(Raw)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Groundnut pods(raw)"
+   ],
+   "approved_category": "unclassified",
+   "approved_storable": false,
+   "review_status": "review_required",
+   "review_note": "Single Gujarat record at Rs 7,000/q, close to dry in-shell groundnut; kept separate from Groundnut and not given a storability decision until confirmed."
+  },
+  {
+   "commodity_name": "Guar",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 16,
+   "raw_source_names": [
+    "Guar"
+   ],
+   "approved_category": "unclassified",
+   "approved_storable": false,
+   "review_status": "review_required",
+   "review_note": "Varieties Gwar/Guaar, Rs 1,900-9,500/q across Rajasthan, Gujarat, Haryana, MP and Maharashtra; prices overlap both Cluster Beans (vegetable) and Guar Seed (cash crop)."
+  },
+  {
+   "commodity_name": "Guar Seed(Cluster Beans Seed)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 9,
+   "raw_source_names": [
+    "Guar Seed(Cluster Beans Seed)"
+   ],
+   "approved_category": "cash_crop",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Guava",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 53,
+   "raw_source_names": [
+    "Guava"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Gur(Jaggery)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 6,
+   "raw_source_names": [
+    "Gur(Jaggery)"
+   ],
+   "approved_category": "other",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Indian Beans(Seam)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 16,
+   "raw_source_names": [
+    "Indian Beans(Seam)"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Indian Colza(Sarson)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Indian Colza(Sarson)"
+   ],
+   "approved_category": "oilseed",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Jack Fruit(Ripe)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Jack Fruit(Ripe)"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Jarbara",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Jarbara"
+   ],
+   "approved_category": "flower",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Jasmine",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 5,
+   "raw_source_names": [
+    "Jasmine"
+   ],
+   "approved_category": "flower",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Jowar(Sorghum)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 17,
+   "raw_source_names": [
+    "Jowar(Sorghum)"
+   ],
+   "approved_category": "cereal",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Kabuli Chana(Chickpeas-White)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 4,
+   "raw_source_names": [
+    "Kabuli Chana(Chickpeas-White)"
+   ],
+   "approved_category": "pulse",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Karbuja(Musk Melon)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 5,
+   "raw_source_names": [
+    "Karbuja(Musk Melon)"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Kinnow",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 3,
+   "raw_source_names": [
+    "Kinnow"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Knool Khol",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 24,
+   "raw_source_names": [
+    "Knool Khol"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Kodo Millet(Varagu)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 7,
+   "raw_source_names": [
+    "Kodo Millet(Varagu)"
+   ],
+   "approved_category": "cereal",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Kutki",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 2,
+   "raw_source_names": [
+    "Kutki"
+   ],
+   "approved_category": "cereal",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Ladies Finger",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Ladies Finger"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Lak(Teora)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 4,
+   "raw_source_names": [
+    "Lak(Teora)"
+   ],
+   "approved_category": "pulse",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Leafy Vegetable",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 3,
+   "raw_source_names": [
+    "Leafy Vegetable"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Lemon",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 65,
+   "raw_source_names": [
+    "Lemon"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Lentil(Masur)(Whole)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 14,
+   "raw_source_names": [
+    "Lentil(Masur)(Whole)"
+   ],
+   "approved_category": "pulse",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Lime",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 30,
+   "raw_source_names": [
+    "Lime"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Linseed",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 2,
+   "raw_source_names": [
+    "Linseed"
+   ],
+   "approved_category": "oilseed",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Little Gourd(Kundru)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 10,
+   "raw_source_names": [
+    "Little gourd(Kundru)"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Long Melon(Kakri)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Long Melon(Kakri)"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Mahedi",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Mahedi"
+   ],
+   "approved_category": "other",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Maize",
+   "pre_migration_category": "cereal",
+   "pre_migration_storable": true,
+   "price_rows": 117,
+   "raw_source_names": [
+    "Maize"
+   ],
+   "approved_category": "cereal",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Mango",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Mango"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Mango(Raw-Ripe)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 34,
+   "raw_source_names": [
+    "Mango(Raw-Ripe)"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Marigold(Calcutta)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 8,
+   "raw_source_names": [
+    "Marigold(Calcutta)"
+   ],
+   "approved_category": "flower",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Masur Dal",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 4,
+   "raw_source_names": [
+    "Masur Dal"
+   ],
+   "approved_category": "pulse",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Mataki",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Mataki"
+   ],
+   "approved_category": "pulse",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Mentha Oil",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Mentha Oil"
+   ],
+   "approved_category": "cash_crop",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Methi Seeds",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 8,
+   "raw_source_names": [
+    "Methi Seeds"
+   ],
+   "approved_category": "spice",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Methi(Leaves)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 10,
+   "raw_source_names": [
+    "Methi(Leaves)"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Mint(Pudina)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 47,
+   "raw_source_names": [
+    "Mint(Pudina)"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Moath Dal",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 2,
+   "raw_source_names": [
+    "Moath Dal"
+   ],
+   "approved_category": "pulse",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Mousambi(Sweet Lime)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 30,
+   "raw_source_names": [
+    "Mousambi(Sweet Lime)"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Mushroom",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 7,
+   "raw_source_names": [
+    "Mushroom"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Mustard",
+   "pre_migration_category": "oilseed",
+   "pre_migration_storable": true,
+   "price_rows": 33,
+   "raw_source_names": [
+    "Mustard"
+   ],
+   "approved_category": "oilseed",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Mustard Oil",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 3,
+   "raw_source_names": [
+    "Mustard Oil"
+   ],
+   "approved_category": "oilseed",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Nigella",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 2,
+   "raw_source_names": [
+    "nigella"
+   ],
+   "approved_category": "spice",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Onion",
+   "pre_migration_category": "vegetable",
+   "pre_migration_storable": false,
+   "price_rows": 217,
+   "raw_source_names": [
+    "Onion",
+    "Onion Green"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Orange",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 17,
+   "raw_source_names": [
+    "Orange"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Other Green And Fresh Vegetables",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 2,
+   "raw_source_names": [
+    "Other green and fresh vegetables"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Papaya",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 70,
+   "raw_source_names": [
+    "Papaya"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Papaya(Raw)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 3,
+   "raw_source_names": [
+    "Papaya(Raw)"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Pea Pod/Pea Cod/हरी मटर",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 8,
+   "raw_source_names": [
+    "Pea Pod/Pea Cod/हरी मटर"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Pear(Marasebu)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Pear(Marasebu)"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Peas Wet",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 16,
+   "raw_source_names": [
+    "Peas Wet"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Peas(Dry)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 2,
+   "raw_source_names": [
+    "Peas(Dry)"
+   ],
+   "approved_category": "pulse",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Pegeon Pea(Arhar Fali)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 2,
+   "raw_source_names": [
+    "Pegeon Pea(Arhar Fali)"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Persimon(Japani Fal)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Persimon(Japani Fal)"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Pigeon Pea (Tur)",
+   "pre_migration_category": "pulse",
+   "pre_migration_storable": true,
+   "price_rows": 0,
+   "raw_source_names": [],
+   "approved_category": "pulse",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Pineapple",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 18,
+   "raw_source_names": [
+    "Pineapple"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Pointed Gourd(Parval)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 14,
+   "raw_source_names": [
+    "Pointed gourd(Parval)"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Pomegranate",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 27,
+   "raw_source_names": [
+    "Pomegranate"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Potato",
+   "pre_migration_category": "vegetable",
+   "pre_migration_storable": true,
+   "price_rows": 145,
+   "raw_source_names": [
+    "Potato"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Pumpkin",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 96,
+   "raw_source_names": [
+    "Pumpkin"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Rab/Liquid Jaggery/Molasses",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Rab/Liquid Jaggery/Molasses"
+   ],
+   "approved_category": "other",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Raddish",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 109,
+   "raw_source_names": [
+    "Raddish"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Ragi(Finger Millet)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 2,
+   "raw_source_names": [
+    "Ragi(Finger Millet)"
+   ],
+   "approved_category": "cereal",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Rajgir",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 2,
+   "raw_source_names": [
+    "Rajgir"
+   ],
+   "approved_category": "cereal",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Red Gram/Arhar/Tur(Whole)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 27,
+   "raw_source_names": [
+    "Red gram/Arhar/Tur(whole)"
+   ],
+   "approved_category": "pulse",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Rice",
+   "pre_migration_category": "cereal",
+   "pre_migration_storable": true,
+   "price_rows": 171,
+   "raw_source_names": [
+    "Paddy(Basmati)",
+    "Paddy(Common)",
+    "Paddy(Fine/Superfine/Grade A)",
+    "Rice",
+    "Rice(Fine/Superfine/Grade A)"
+   ],
+   "approved_category": "cereal",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Ridgeguard(Tori)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 69,
+   "raw_source_names": [
+    "Ridgeguard(Tori)"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Rose(Local)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 9,
+   "raw_source_names": [
+    "Rose(Local)"
+   ],
+   "approved_category": "flower",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Round Gourd",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 2,
+   "raw_source_names": [
+    "Round gourd"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Rubber",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Rubber"
+   ],
+   "approved_category": "cash_crop",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Same/Savi",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Same/Savi"
+   ],
+   "approved_category": "cereal",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Season Leaves",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Season Leaves"
+   ],
+   "approved_category": "unclassified",
+   "approved_storable": false,
+   "review_status": "review_required",
+   "review_note": "Single Himachal Pradesh record, variety 'Other', Rs 1,500/q; produce type unknown."
+  },
+  {
+   "commodity_name": "Seetapal",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 5,
+   "raw_source_names": [
+    "Seetapal"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Sem",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Sem"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Sesamum(Sesame,Gingelly,Til)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 29,
+   "raw_source_names": [
+    "Sesamum(Sesame,Gingelly,Til)"
+   ],
+   "approved_category": "oilseed",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Snakeguard",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 62,
+   "raw_source_names": [
+    "Snakeguard"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Soanf",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 2,
+   "raw_source_names": [
+    "Soanf"
+   ],
+   "approved_category": "spice",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Soybean",
+   "pre_migration_category": "oilseed",
+   "pre_migration_storable": true,
+   "price_rows": 99,
+   "raw_source_names": [
+    "Soyabean"
+   ],
+   "approved_category": "oilseed",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Spinach",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 17,
+   "raw_source_names": [
+    "Spinach"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Spiny Gourd / Kartali(Kantola)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Spiny Gourd / Kartali(Kantola)\n"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Sponge Gourd",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 7,
+   "raw_source_names": [
+    "Sponge gourd"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Squash(Chappal Kadoo)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 4,
+   "raw_source_names": [
+    "Squash(Chappal Kadoo)"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Sugar",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Sugar"
+   ],
+   "approved_category": "other",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Surat Beans(Papadi)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Surat Beans(Papadi)"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Sweet Corn",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 13,
+   "raw_source_names": [
+    "Sweet Corn "
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Sweet Potato",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 25,
+   "raw_source_names": [
+    "Sweet Potato"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Sweet Pumpkin",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 6,
+   "raw_source_names": [
+    "Sweet Pumpkin"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "T.V. Cumbu",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "T.V. Cumbu"
+   ],
+   "approved_category": "cereal",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Tamarind Fruit",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 12,
+   "raw_source_names": [
+    "Tamarind Fruit"
+   ],
+   "approved_category": "spice",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Tapioca",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 26,
+   "raw_source_names": [
+    "Tapioca"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Taramira",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Taramira"
+   ],
+   "approved_category": "oilseed",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Tender Coconut",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 29,
+   "raw_source_names": [
+    "Tender Coconut"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Thondekai",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 35,
+   "raw_source_names": [
+    "Thondekai"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Tinda",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 3,
+   "raw_source_names": [
+    "Tinda"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Tobacco",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Tobacco"
+   ],
+   "approved_category": "cash_crop",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Tomato",
+   "pre_migration_category": "vegetable",
+   "pre_migration_storable": false,
+   "price_rows": 157,
+   "raw_source_names": [
+    "Tomato"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Tube Rose(Loose)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 2,
+   "raw_source_names": [
+    "Tube Rose(Loose)"
+   ],
+   "approved_category": "flower",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Turmeric",
+   "pre_migration_category": "spice",
+   "pre_migration_storable": true,
+   "price_rows": 5,
+   "raw_source_names": [
+    "Turmeric",
+    "Turmeric(raw)"
+   ],
+   "approved_category": "spice",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Turnip",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 8,
+   "raw_source_names": [
+    "Turnip"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Walnut",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Walnut"
+   ],
+   "approved_category": "dry_fruit_nut",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Water Melon",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 16,
+   "raw_source_names": [
+    "Water Melon"
+   ],
+   "approved_category": "fruit",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Wheat",
+   "pre_migration_category": "cereal",
+   "pre_migration_storable": true,
+   "price_rows": 154,
+   "raw_source_names": [
+    "Wheat"
+   ],
+   "approved_category": "cereal",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Wheat Atta",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "Wheat Atta"
+   ],
+   "approved_category": "cereal",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "White Muesli",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 1,
+   "raw_source_names": [
+    "White Muesli"
+   ],
+   "approved_category": "other",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Wild Cucumber",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 2,
+   "raw_source_names": [
+    "Wild Cucumber"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Wood",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 8,
+   "raw_source_names": [
+    "Wood"
+   ],
+   "approved_category": "other",
+   "approved_storable": true,
+   "review_status": "reviewed",
+   "review_note": null
+  },
+  {
+   "commodity_name": "Yam(Ratalu)",
+   "pre_migration_category": "other",
+   "pre_migration_storable": true,
+   "price_rows": 23,
+   "raw_source_names": [
+    "Yam(Ratalu)"
+   ],
+   "approved_category": "vegetable",
+   "approved_storable": false,
+   "review_status": "reviewed",
+   "review_note": null
+  }
+ ]
+}

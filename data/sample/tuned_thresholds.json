@@ -1,0 +1,13 @@
+{
+  "momentum_wait_pct": 6.0,
+  "momentum_sell_pct": -2.0,
+  "seasonal_peak_pct": 0.0,
+  "seasonal_below_pct": -2.0,
+  "arrivals_rise_pct": 10.0,
+  "arrivals_not_rising_pct": -3.0,
+  "high_volatility_cv": 0.2,
+  "min_obs_recent_7d": 2,
+  "min_obs_prior_7d": 2,
+  "min_obs_90d": 10,
+  "threshold_source": "walk_forward_backtest_tuned"
+}

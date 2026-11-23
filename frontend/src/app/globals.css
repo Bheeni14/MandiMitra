@@ -1,0 +1,192 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f5f6f2;
+  --foreground: #142019;
+  --card: #ffffff;
+  --card-foreground: #142019;
+  --primary: #17643a;
+  --primary-hover: #12532f;
+  --primary-foreground: #ffffff;
+  --secondary: #edf3ee;
+  --secondary-foreground: #17643a;
+  --muted: #f0f3ef;
+  --muted-foreground: #5b6b61;
+  --accent: #fbf4e2;
+  --accent-foreground: #7a5600;
+  --destructive: #c4512f;
+  --destructive-foreground: #ffffff;
+  --border: #e2e8e2;
+  --input: #d9e1da;
+  --ring: #2f8a52;
+  --radius: 0.875rem;
+
+  --sidebar: #0e2f1d;
+  --sidebar-foreground: #dbe9df;
+  --sidebar-muted: #8fae9a;
+  --sidebar-active: rgba(255, 255, 255, 0.09);
+  --sidebar-border: rgba(255, 255, 255, 0.08);
+
+  --tone-green: #17643a;
+  --tone-green-soft: #e4f1e7;
+  --tone-gold: #a87708;
+  --tone-gold-soft: #fbf1d7;
+  --tone-terracotta: #c4512f;
+  --tone-terracotta-soft: #fbe9e2;
+  --tone-slate: #475569;
+  --tone-slate-soft: #eef1f5;
+
+  --shadow-card: 0 1px 2px rgba(20, 32, 25, 0.04), 0 1px 3px rgba(20, 32, 25, 0.03);
+  --shadow-raised: 0 4px 16px -4px rgba(20, 32, 25, 0.1), 0 2px 4px rgba(20, 32, 25, 0.04);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-muted: var(--sidebar-muted);
+  --color-sidebar-active: var(--sidebar-active);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-tone-green: var(--tone-green);
+  --color-tone-green-soft: var(--tone-green-soft);
+  --color-tone-gold: var(--tone-gold);
+  --color-tone-gold-soft: var(--tone-gold-soft);
+  --color-tone-terracotta: var(--tone-terracotta);
+  --color-tone-terracotta-soft: var(--tone-terracotta-soft);
+  --color-tone-slate: var(--tone-slate);
+  --color-tone-slate-soft: var(--tone-slate-soft);
+  --shadow-card: var(--shadow-card);
+  --shadow-raised: var(--shadow-raised);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), system-ui, -apple-system, sans-serif;
+  font-feature-settings: "cv11", "ss01";
+}
+
+/* Numbers line up in tables and KPI tiles. */
+table,
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+::selection {
+  background: #cfe7d6;
+  color: #0e2f1d;
+}
+
+/* Thin, unobtrusive scrollbars for tables and the sidebar. */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #c9d4cb transparent;
+}
+
+/* Page entrance */
+@keyframes page-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.page-enter {
+  animation: page-in 0.35s ease-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page-enter {
+    animation: none;
+  }
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+/* ---------- Recharts: one consistent, quiet chart style across every page ---------- */
+.recharts-cartesian-grid line {
+  stroke: #edf1ec;
+  stroke-dasharray: 0;
+}
+
+.recharts-cartesian-axis-line,
+.recharts-cartesian-axis-tick-line {
+  stroke: transparent;
+}
+
+.recharts-cartesian-axis-tick-value,
+.recharts-cartesian-axis-tick-value tspan {
+  fill: #6b7a70;
+}
+
+.recharts-legend-wrapper {
+  font-size: 12px;
+}
+
+.recharts-legend-item-text {
+  color: var(--muted-foreground) !important;
+}
+
+.recharts-tooltip-cursor {
+  fill: rgba(23, 100, 58, 0.06);
+}
+
+.recharts-default-tooltip {
+  border-radius: 12px !important;
+  border: 1px solid var(--border) !important;
+  box-shadow: var(--shadow-raised);
+  padding: 10px 12px !important;
+  font-size: 12px;
+}
+
+.recharts-tooltip-label {
+  font-weight: 600;
+  color: var(--foreground);
+  margin-bottom: 4px !important;
+}
+
+.recharts-tooltip-item {
+  padding: 1px 0 !important;
+}
+
+/* ---------- Collapsible "technical details" sections ---------- */
+details.disclosure > summary {
+  list-style: none;
+  cursor: pointer;
+}
+
+details.disclosure > summary::-webkit-details-marker {
+  display: none;
+}
+
+details.disclosure[open] .disclosure-chevron {
+  transform: rotate(90deg);
+}

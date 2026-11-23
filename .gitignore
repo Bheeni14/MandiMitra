@@ -1,0 +1,67 @@
+# Environment & Secrets
+.env
+.env.local
+*.env
+!.env.example
+credentials.json
+**/credentials*.json
+**/service-account*.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Python & Virtual Environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Local databases & dumps
+*.db
+*.sqlite
+*.sqlite3
+*.dump
+*.backup
+*.bak
+
+# Backups (local and off-project copies must never be committed)
+backups/
+**/backups/
+*_backup/
+*_backup.*
+
+# Local Raw Downloads, Cache & Generated Artifacts
+data/raw/*
+!data/raw/.gitkeep
+data/cache/
+**/_cache/
+.dist/
+dist/
+build/
+*.egg-info/
+
+# Frontend generated
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/coverage/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+
+# Local API response dumps
+/new.json
+/old.json

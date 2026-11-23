@@ -1,0 +1,97 @@
+# MandiMitra production daily ingestion
+#
+# Safety:
+#   * No `push` / `pull_request` triggers (a normal push cannot run this workflow).
+#   * Scheduled daily capture is ENABLED after supervised first-run approval.
+#   * workflow_dispatch still requires typing APPLY-PRODUCTION-INGESTION exactly.
+#   * PostgreSQL path never auto-seeds; schema is verified read-only first.
+#   * Full Agmarknet pagination by default (no silent 5000-record truncation).
+#   * Analytics is off unless explicitly requested on a manual run.
+#   * Storage upload / Gemini / advisor persistence stay false in CI env.
+
+name: MandiMitra Daily Agmarknet Ingestion
+
+on:
+  schedule:
+    # Daily at 01:30 UTC (07:00 IST) after morning mandi snapshots settle
+    - cron: "30 1 * * *"
+  workflow_dispatch:
+    inputs:
+      confirm_production_writes:
+        description: "Type APPLY-PRODUCTION-INGESTION to authorize production writes"
+        required: true
+        default: ""
+      max_records:
+        description: "Optional record cap (leave empty for complete feed; a cap marks partial_success)"
+        required: false
+        default: ""
+      run_analytics:
+        description: "Also run analytics/briefings after ingestion (true/false)"
+        required: false
+        default: "false"
+
+jobs:
+  daily-price-ingestion:
+    # Schedule runs automatically; manual runs still require the exact confirmation phrase.
+    # Never on push / pull_request.
+    if: >-
+      github.event_name == 'schedule' ||
+      (github.event_name == 'workflow_dispatch' &&
+       github.event.inputs.confirm_production_writes == 'APPLY-PRODUCTION-INGESTION')
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Isolated unit smoke check (no production credentials)
+        run: pytest -q -m "not integration"
+        env:
+          DEMO_MODE: "true"
+          DATABASE_URL: ""
+
+      - name: Verify production schema is current (read-only; never applies migrations)
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          DEMO_MODE: "false"
+          RAW_STORAGE_UPLOAD_ENABLED: "false"
+          GEMINI_ENABLED: "false"
+          ADVISOR_PERSIST: "false"
+        run: python scripts/migrate.py --status
+
+      - name: Run daily Agmarknet price ingestion
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          DATA_GOV_IN_API_KEY: ${{ secrets.DATA_GOV_IN_API_KEY }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          SUPABASE_STORAGE_BUCKET: ${{ secrets.SUPABASE_STORAGE_BUCKET }}
+          DEMO_MODE: "false"
+          RAW_STORAGE_UPLOAD_ENABLED: "false"
+          GEMINI_ENABLED: "false"
+          ADVISOR_PERSIST: "false"
+        run: |
+          set -euo pipefail
+          # Schema verify only — never seed reference dimensions from CI.
+          python scripts/init_db.py
+          MAX_RECORDS="${{ github.event.inputs.max_records }}"
+          if [ -n "${MAX_RECORDS}" ]; then
+            python scripts/ingest_all.py --daily --max-records "${MAX_RECORDS}"
+          else
+            python scripts/ingest_all.py --daily
+          fi
+          if [ "${{ github.event.inputs.run_analytics }}" = "true" ]; then
+            python scripts/run_analytics.py --commodity Tomato --briefings 1
+          fi

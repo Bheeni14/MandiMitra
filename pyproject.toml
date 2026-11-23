@@ -1,0 +1,16 @@
+[project]
+name = "mandimitra"
+version = "1.0.0"
+description = "MandiMitra - Crop Price and Market Analytics for India (HCL Hackathon Capstone)"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+markers = [
+    "integration: tests requiring live database or external API credentials",
+    "postgres_disposable: real PostgreSQL tests against a local throwaway server (MANDIMITRA_TEST_PG_ADMIN_URL)",
+]
+filterwarnings = [
+    "ignore::DeprecationWarning",
+]

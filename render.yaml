@@ -1,0 +1,39 @@
+# Render Blueprint for the MandiMitra FastAPI backend.
+# Render dashboard -> New -> Blueprint -> select this repository. Values marked `sync: false` are prompted for once
+# and never stored in git.
+services:
+  - type: web
+    name: mandimitra-api
+    runtime: python
+    plan: free
+    region: singapore # closest Render region to Supabase ap-south-1 (Mumbai)
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn backend.main:app --host 0.0.0.0 --port $PORT --proxy-headers --forwarded-allow-ips="*"
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.8"
+      # Supabase pooler URL. Leave empty to run the clearly labelled Demo Mode (SQLite built from data/sample/).
+      - key: DATABASE_URL
+        sync: false
+      - key: DEMO_MODE
+        value: auto
+      # Your Vercel production URL, e.g. https://mandimitra.vercel.app (comma-separate several).
+      - key: CORS_ORIGINS
+        sync: false
+      # Optional: allow Vercel preview deployments, e.g. ^https://mandimitra-[a-z0-9-]+\.vercel\.app$
+      - key: CORS_ORIGIN_REGEX
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GEMINI_MODEL
+        value: gemini-3.8-flash
+      - key: GEMINI_ENABLED
+        value: "false"
+      - key: RAW_STORAGE_UPLOAD_ENABLED
+        value: "false"
+      - key: ADVISOR_PERSIST
+        value: "false"
+      - key: LOG_LEVEL
+        value: INFO
